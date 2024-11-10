@@ -2,7 +2,7 @@
 
 This is a collection of theories and hypotheses related to the study of biological and health effects of non-ionizing radiation.
 
-The book is an open science project started in 2024 and is work in progress. A final edition may take years to complete. Scientists and authors familiar with the topic can contribute and will be credited for any contribution. If you want to contribute, you can simply submit additions and revisions at the book's GitHub repository. Currently, I serve as the editor, but that may be changed if more experienced authors decide to contribute.
+The book is an open science project started in 2024 and is work in progress. A final edition may take years to complete. Scientists and authors familiar with the topic can contribute and will be credited for any contribution. If you want to contribute, you can simply submit additions and revisions at the book's [GitHub repository](https://github.com/cortexR/emf-research-book/). Currently, I serve as the editor, but that may be changed if more experienced authors decide to contribute.
 
 The book at this page will remain free. The book is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en). Potentially, 
 additional paperback, hard copy or e-book editions can be made available for 
