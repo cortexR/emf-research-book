@@ -1,0 +1,14 @@
+# Literature data (draft)
+
+## Soviet research
+
+In the earliest time of EMF science, much research was done in the Soviet Union.
+
+Big portions of this body of research may not be available in literature databases. As a starting point of an exploration of the Soviet research, below is a list of some sources discussing this literature.
+
+-   @glaserBiomedicalAspectsRadiofrequency1976
+-   @mcreeReviewSovietEastern1979
+-   @mcreeSovietEasternEuropean1980
+-   @kositskyInfluenceHighfrequencyElectromagnetic2001a
+-   @kostoffAdverseEffectsWireless2019
+-   @kostoffLargestUnethicalMedical2020 

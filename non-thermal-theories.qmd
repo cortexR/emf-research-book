@@ -1,0 +1,7 @@
+# Non-thermal theories (draft)
+
+## The interaction with specific biological components
+
+### Melanin
+
+## The Zeeman effect [@chiabreraZeemanStarkModelingRF2000]

@@ -1,0 +1,42 @@
+# Resources (draft)
+
+In this part of the book, various resources that can aid in research on electromagnetic fields. The various chapters holds resources such as information on literature databases, open data and scientific communities around the world.
+
+## Idenifying research gaps
+
+If you are interested in conducting new research on EMFs, the table below with *the seven research gaps* from @milesTaxonomyResearchGaps2017 may aid you. What research gap *type* do you find to be the most important within EMF science?
+
+```{r, echo=FALSE}
+library(kableExtra)
+
+# Data for the table
+data <- data.frame(
+ "Research Gap Type" = c(
+    "<b>Evidence Gap</b> (Contradictory Evidence Gap)", 
+    "<b>Knowledge Gap</b> (Knowledge Void Gap)", 
+    "<b>Practical-Knowledge Gap</b> (Action-Knowledge Conflict Gap)", 
+    "<b>Methodological Gap</b> (Method and Research Design Gap)", 
+    "<b>Empirical Gap</b> (Evaluation Void Gap)", 
+    "<b>Theoretical Gap</b> (Theory Application Void Gap)", 
+    "<b>Population Gap</b>", 
+    "Sources:"
+  ),
+  "Definition" = c(
+    "Results from studies allow for conclusions in their own right, but are contradictory when examined from a more abstract point of view [Jacobs, 2011; Müller-Bloch & Kranz, 2014; Miles, 2017].",
+    "Desired research findings do not exist [Jacobs, 2011; Müller-Bloch & Kranz, 2014; Miles, 2017].",
+    "Professional behavior or practices deviate from research findings or are not covered by research [Jacobs, 2011; Müller-Bloch & Kranz, 2014; Miles, 2017].",
+    "A variation of research methods is necessary to generate new insights or to avoid distorted findings [Jacobs, 2011; Müller-Bloch & Kranz, 2014; Miles, 2017].",
+    "Research findings or propositions need to be evaluated or empirically verified [Jacobs, 2011; Müller-Bloch & Kranz, 2014; Miles, 2017].",
+    "Theory should be applied to certain research issues to generate new insights. There is lack of theory thus a gap exists [Müller-Bloch & Kranz, 2014; Jacobs, 2011; Müller-Bloch & Kranz, 2014; Miles, 2017].",
+    "Research regarding the population that is not adequately represented or under-researched in the evidence base of prior research (e.g., gender, race/ethnicity, age, etc.) [Robinson, et al, 2011].",
+    "Robinson, Saldanhea, & McKoy (2011); Müller-Bloch & Kranz, (2015); Miles, (2017)."
+  ),
+  check.names = FALSE #to prevent   "Research Gap Type" to list as "Research.Gap.Type"
+)
+
+# Create the table with a colored last row
+data %>%
+  kable("html", escape = FALSE) %>%
+  kable_styling(full_width = FALSE) %>%
+  row_spec(nrow(data), background = "white", italic =  TRUE)
+```

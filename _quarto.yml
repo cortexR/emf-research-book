@@ -1,0 +1,47 @@
+project:
+  type: book
+
+book:
+  title: "The EMF Research Book (draft edition)"
+  subtitle: "A collection of theories and hyptheses for the study of biological and health effects of electromagnetic fields"
+  author: "Mads Rohde"
+  date: "11/09/2024"
+  chapters:
+    - index.qmd
+    
+    - intro.qmd
+    
+    - part: emf-characteristics.qmd
+      chapters:
+        - nomenclature.qmd
+    
+    - part: effects.qmd
+      chapters:
+        - thermal-theories.qmd
+
+        - non-thermal-theories.qmd
+    
+        - ionizing-radiation-theories.qmd
+    
+        - psychological-theories.qmd
+    
+    
+    - part: resources.qmd
+      chapters:
+        - literature-db.qmd
+        - open-data.qmd
+        - research-world.qmd
+    
+    - references.qmd
+    
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+
