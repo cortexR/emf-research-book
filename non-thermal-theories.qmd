@@ -7,3 +7,8 @@
 ## The Zeeman effect [@chiabreraZeemanStarkModelingRF2000]
 
 ## The Rouleaux Effect
+
+## Microbiome
+A hypothesis about how the microbiome can be affected by exposure to anthropogenic 
+electromagnetic fields and create health effects, may first have been presented in a conference abstract 
+in 2022, for a conference in Sogn og Fjordane in Norway [@manzettiPotentialUnderlyingCause2022a]
