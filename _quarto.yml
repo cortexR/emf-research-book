@@ -24,7 +24,9 @@ book:
         - ionizing-radiation-theories.qmd
     
         - psychological-theories.qmd
-    
+    - part: exposure-assessment.qmd
+      chapters:
+        - real-world-measurements.qmd
     
     - part: resources.qmd
       chapters:

@@ -39,10 +39,8 @@ gap_data <- data.frame(
     check.names = FALSE
   )
 
-if (knitr::is_html_output()) {
-  
+if (knitr::is_html_output()) { #to  solve an errr message during rendering
 
-  
   # Render the table for HTML
   gap_data %>%
     kable("html", escape = FALSE) %>%

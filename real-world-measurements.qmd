@@ -1,0 +1,11 @@
+# Real world measurements
+
+## 5G exposure
+
+2022:
+
+-   Columbia, SC, USA [@koppelMeasurementsRadiofrequencyElectromagnetic2022]
+
+2024:
+
+-   Stockholm, Sweden, 2024 [@hardellSpotsExtremelyHigh2024]\
