@@ -20,7 +20,7 @@ of theories. However, relevant scientific references for each theory should be i
 But to support the progress of the development of this book, such lists may most often not be exhaustive, meaning that a theory may be included with one reference initially that is not necessarily the most updated and correct reference. 
 
 It is also not the aim that theories or hypotheses included should have 
-been proven to be correct (or scientifically speaking,not haven been falsified).
+been proven to be correct (or scientifically speaking, not haven been falsified).
 Theories that are speculative, or even wrong, may also be included, 
 and the reader should be aware this. The reason for this is that ideas that have 
 not yet been researched may have extra value in that they may point to 

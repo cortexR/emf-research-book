@@ -1,0 +1,9 @@
+# Specific diseases
+
+## Cardiovascular disease
+
+### Blood pressure
+
+Cell phone calls, and thus radiofrequency radiation, may be related to the development of high *blood-pressure* (hypertension) , according to a large study using data from the UK Biobank [@yeMobilePhoneCalls2023a]. Radiation exposure can be assumed to be strongly affected by cell phone usage. Confounding factors and other explanatory models can always exist. Mecanistic models for how a blood pressure increase can happen due to radiofrequency radiation, is a topic for future studies, – and such studies will increase the confidence in the findings from epidemiological studies on cell phone usage or similar exposure, and blood pressure.
+
+## Cancer

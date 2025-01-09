@@ -22,6 +22,8 @@ book:
         - non-thermal-theories.qmd
     
         - ionizing-radiation-theories.qmd
+        
+        - specific_diseases.qmd
     
         - psychological-theories.qmd
     - part: exposure-assessment.qmd
