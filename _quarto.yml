@@ -29,6 +29,7 @@ book:
     - part: exposure-assessment.qmd
       chapters:
         - real-world-measurements.qmd
+        - exposure-in-general.qmd
     
     - part: resources.qmd
       chapters:

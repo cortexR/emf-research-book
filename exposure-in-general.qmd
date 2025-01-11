@@ -1,0 +1,7 @@
+# Exposure in general
+
+## Fifth generation mobile phone technology (5G)
+
+*Non-user exposure:*
+A 2023 study performed measurements "near two 5G New Radio (NR) base stations, one with an Advanced Antenna System (AAS) capable of **beamforming** and the other a traditional microcell." (emphasizment/bold part added). They found that exposure was in general lower for non-users than for users, but that "for the non-user, the difference lies in whether they are in a beam or not" and that when there are many users around the base station exposure can generally increase for the non-user [@aertsRFEMFExposure5G2023].
+
