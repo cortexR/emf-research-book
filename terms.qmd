@@ -1,0 +1,12 @@
+# Terms to use
+
+Many phenomena within this research field have av diverse nomencalature.
+
+In this chapter we list various terms with examples on usage.\
+\
+
+* *electromagnetic radiation*
+
+> electromagnetic radiation emitted by wireless communication devices
+>
+> From [@leszczynskiWirelessRadiationHealth2025]

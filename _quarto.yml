@@ -36,6 +36,8 @@ book:
         - literature-db.qmd
         - open-data.qmd
         - research-world.qmd
+        - long_leaps_and_speculations.qmd
+        - terms.qmd
     
     - references.qmd
     
