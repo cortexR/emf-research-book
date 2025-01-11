@@ -51,14 +51,14 @@
   {
     "objectID": "specific_diseases.html#cardiovascular-disease",
     "href": "specific_diseases.html#cardiovascular-disease",
-    "title": "6  Specific diseases",
+    "title": "6  Specific diseases (draft)",
     "section": "6.1 Cardiovascular disease",
     "text": "6.1 Cardiovascular disease\n\n6.1.1 Blood pressure\nCell phone calls, and thus radiofrequency radiation, may be related to the development of high blood-pressure (hypertension) , according to a large study using data from the UK Biobank (Ye et al. 2023). Radiation exposure can be assumed to be strongly affected by cell phone usage. Confounding factors and other explanatory models can always exist. Mecanistic models for how a blood pressure increase can happen due to radiofrequency radiation, is a topic for future studies, – and such studies will increase the confidence in the findings from epidemiological studies on cell phone usage or similar exposure, and blood pressure."
   },
   {
     "objectID": "specific_diseases.html#cancer",
     "href": "specific_diseases.html#cancer",
-    "title": "6  Specific diseases",
+    "title": "6  Specific diseases (draft)",
     "section": "6.2 Cancer",
     "text": "6.2 Cancer\n\n\n\n\nYe, Ziliang, Yanjun Zhang, Yuanyuan Zhang, Sisi Yang, Mengyi Liu, Qimeng Wu, Chun Zhou, Panpan He, Xiaoqin Gan, and Xianhui Qin. 2023. “Mobile Phone Calls, Genetic Susceptibility, and New-Onset Hypertension: Results from 212 046 UK Biobank Participants.” European Heart Journal - Digital Health 4 (3): 165–74. https://doi.org/10.1093/ehjdh/ztad024."
   },
@@ -79,7 +79,7 @@
   {
     "objectID": "exposure-in-general.html#fifth-generation-mobile-phone-technology-5g",
     "href": "exposure-in-general.html#fifth-generation-mobile-phone-technology-5g",
-    "title": "9  Exposure in general",
+    "title": "9  Exposure in general (draft)",
     "section": "9.1 Fifth generation mobile phone technology (5G)",
     "text": "9.1 Fifth generation mobile phone technology (5G)\nNon-user exposure:\nA 2023 study performed measurements “near two 5G New Radio (NR) base stations, one with an Advanced Antenna System (AAS) capable of beamforming and the other a traditional microcell.” (emphasizment/bold part added)(Aerts et al. 2023).\nThey found that exposure was in general lower for non-users than for users, but that “for the non-user, the difference lies in whether they are in a beam or not” and that when there are many users around the base station exposure can generally increase for the non-user.\n\n\n\n\nAerts, Sam, Kenneth Deprez, Leen Verloock, Robert G. Olsen, Luc Martens, Phung Tran, and Wout Joseph. 2023. “RF-EMF Exposure Near 5G NR Small Cells.” Sensors (Basel, Switzerland) 23 (6): 3145. https://doi.org/10.3390/s23063145."
   },
@@ -100,14 +100,14 @@
   {
     "objectID": "long_leaps_and_speculations.html",
     "href": "long_leaps_and_speculations.html",
-    "title": "13  Long leaps and speculations",
+    "title": "13  Long leaps and speculations (draft)",
     "section": "",
     "text": "Here are some speculative theories or ideas. The ideas are only sicentific in so far that they are possible to test and disprove (falsify). They might be stimulating, engaging or just fun or provocative to read.\n\nToday, all have their own phones. Particularly with the introduction of the fifth generation of mobile technlogy (5G) and beamforming, being close to others can increase exposure.\nIf it is so that RF-EMF is a stressor, a question becomes, can there be subliminal conditioning (pavlovian), where the body experience stress when close to others, and thus starts to associate being close to others as stressful.\nHow can such a theory be tested? Rats can be mounted with their own mini “mobile phone” with beamforming technology in a rat city with transmission antennas around the “city”. Control groups do not have their own phone. Will the rats become less social?"
   },
   {
     "objectID": "terms.html",
     "href": "terms.html",
-    "title": "14  Terms to use",
+    "title": "14  Terms to use (draft)",
     "section": "",
     "text": "Many phenomena within this research field have av diverse nomencalature.\nIn this chapter we list various terms with examples on usage.\n\n\n\nelectromagnetic radiation\n\n\nelectromagnetic radiation emitted by wireless communication devices\nFrom (Leszczynski 2025)\n\n\n\n\n\nLeszczynski, Dariusz. 2025. “Wireless Radiation and Health: Making the Case for Proteomics Research of Individual Sensitivity.” Frontiers in Public Health 12 (January). https://doi.org/10.3389/fpubh.2024.1543818."
   },
