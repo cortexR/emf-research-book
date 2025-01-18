@@ -4,118 +4,289 @@
     "href": "index.html",
     "title": "The EMF Research Book (draft edition)",
     "section": "",
-    "text": "Preface\n\n\n\n\n\n\n\n\n\n\nThe best book for scientific ideas, including generating new ideas and bringing ideas to life – within the field of biological and health effects of electromagnetic fields (EMF).\n\n\nThis is a collection of theories and hypotheses related to the study of biological and health effects of non-ionizing radiation.\nThe book is an open science project started in 2024 and is work in progress. A final edition may take years to complete. Scientists and authors familiar with the topic can contribute and will be credited for any contribution. If you want to contribute, you can simply submit additions and revisions at the book’s GitHub repository. Currently, I serve as the editor, but that may be changed if more experienced authors decide to contribute.\nThe book at this page will remain free. The book is licensed under CC BY-NC-ND 4.0. Potentially, additional paperback, hard copy or e-book editions can be made available for sale at a future point in time.\nThe aim of the book is to be a comprehensive list of the theories and hypotheses related to non-ionizing radiation that can be used for researchers and others who want to familiar themselves with the topic; look up potential frameworks to interpret findings; or explore research gaps and possible new research questions and methods.\nThe aim is not to discuss specific research findings, but rather to provide a scope of theories. However, relevant scientific references for each theory should be included. But to support the progress of the development of this book, such lists may most often not be exhaustive, meaning that a theory may be included with one reference initially that is not necessarily the most updated and correct reference.\nIt is also not the aim that theories or hypotheses included should have been proven to be correct (or scientifically speaking, not haven been falsified). Theories that are speculative, or even wrong, may also be included, and the reader should be aware this. The reason for this is that ideas that have not yet been researched may have extra value in that they may point to research gaps, and theories that have proven wrong may prohibit other researchers to waste their efforst following that same path."
+    "text": "Preface\n\n\n\n\n\n\nTip\n\n\n\nThe best book for scientific ideas, including generating new ideas and bringing ideas to life – within the field of biological and health effects of electromagnetic fields (EMF).\n\n\nThis is a collection of theories and hypotheses related to the study of biological and health effects of non-ionizing radiation.\nThe book is an open science project started in 2024 and is work in progress. A final edition may take years to complete. Scientists and authors familiar with the topic can contribute and will be credited for any contribution. If you want to contribute, you can simply submit additions and revisions at the book’s GitHub repository. Currently, I serve as the editor, but that may be changed if more experienced authors decide to contribute.\nThe book at this page will remain free. The book is licensed under CC BY-NC-ND 4.0. Potentially, additional paperback, hard copy or e-book editions can be made available for sale at a future point in time.\nThe aim of the book is to be a comprehensive list of the theories and hypotheses related to non-ionizing radiation that can be used for researchers and others who want to familiar themselves with the topic; look up potential frameworks to interpret findings; or explore research gaps and possible new research questions and methods.\nThe aim is not to discuss specific research findings, but rather to provide a scope of theories. However, relevant scientific references for each theory should be included. But to support the progress of the development of this book, such lists may most often not be exhaustive, meaning that a theory may be included with one reference initially that is not necessarily the most updated and correct reference.\nIt is also not the aim that theories or hypotheses included should have been proven to be correct (or scientifically speaking, not haven been falsified). Theories that are speculative, or even wrong, may also be included, and the reader should be aware this. The reason for this is that ideas that have not yet been researched may have extra value in that they may point to research gaps, and theories that have proven wrong may prohibit other researchers to waste their efforst following that same path.",
+    "crumbs": [
+      "Preface"
+    ]
   },
   {
     "objectID": "intro.html",
     "href": "intro.html",
     "title": "1  Introduction (draft)",
     "section": "",
-    "text": "Electromagnetic fields are …"
+    "text": "Electromagnetic fields are …",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction (draft)</span>"
+    ]
   },
   {
-    "objectID": "emf-characteristics.html#characteristics-of-electromagnetic-fields-and-radiation",
-    "href": "emf-characteristics.html#characteristics-of-electromagnetic-fields-and-radiation",
-    "title": "Characteristics (draft)",
-    "section": "Characteristics of electromagnetic fields and radiation",
-    "text": "Characteristics of electromagnetic fields and radiation"
+    "objectID": "characteristics.html",
+    "href": "characteristics.html",
+    "title": "2  Characteristics of electromagnetic fields and radiation",
+    "section": "",
+    "text": "2.1",
+    "crumbs": [
+      "Characteristics (draft)",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Characteristics of electromagnetic fields and radiation</span>"
+    ]
+  },
+  {
+    "objectID": "characteristics.html#natural-electromagnetism",
+    "href": "characteristics.html#natural-electromagnetism",
+    "title": "2  Characteristics of electromagnetic fields and radiation",
+    "section": "2.2 Natural electromagnetism",
+    "text": "2.2 Natural electromagnetism\n\n2.2.1 Space and the sun\nCoronal mass ejection (CME): Ejection of plasma mass from the sun. One often talks about flares, and flares of different strength, e.g. X1 to X100. The Carrington event (1859) is said to have been between X45 or X80 flare (ADD REFERENCE). One also talk about the KP-index – the geomagnetic storm index, with values like typically Kp5-Kp9.\nCosmic microwave background radiation (CMB(R)): (LOOK UP AND IMPROVE TERMINOLOGY AND ABREVIATION, NOT SURE IF THIS IS USED OR COMMONLY USED)",
+    "crumbs": [
+      "Characteristics (draft)",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Characteristics of electromagnetic fields and radiation</span>"
+    ]
+  },
+  {
+    "objectID": "non-thermal-theories.html",
+    "href": "non-thermal-theories.html",
+    "title": "5  Non-thermal theories (draft)",
+    "section": "",
+    "text": "5.1 The interaction with specific biological components",
+    "crumbs": [
+      "Effects (draft)",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Non-thermal theories (draft)</span>"
+    ]
   },
   {
     "objectID": "non-thermal-theories.html#the-interaction-with-specific-biological-components",
     "href": "non-thermal-theories.html#the-interaction-with-specific-biological-components",
-    "title": "4  Non-thermal theories (draft)",
-    "section": "4.1 The interaction with specific biological components",
-    "text": "4.1 The interaction with specific biological components\n\n4.1.1 Melanin"
+    "title": "5  Non-thermal theories (draft)",
+    "section": "",
+    "text": "5.1.1 Melanin",
+    "crumbs": [
+      "Effects (draft)",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Non-thermal theories (draft)</span>"
+    ]
   },
   {
     "objectID": "non-thermal-theories.html#the-zeeman-effect-chiabrerazeemanstarkmodelingrf2000",
     "href": "non-thermal-theories.html#the-zeeman-effect-chiabrerazeemanstarkmodelingrf2000",
-    "title": "4  Non-thermal theories (draft)",
-    "section": "4.2 The Zeeman effect (Chiabrera et al. 2000)",
-    "text": "4.2 The Zeeman effect (Chiabrera et al. 2000)"
+    "title": "5  Non-thermal theories (draft)",
+    "section": "5.2 The Zeeman effect (Chiabrera et al. 2000)",
+    "text": "5.2 The Zeeman effect (Chiabrera et al. 2000)",
+    "crumbs": [
+      "Effects (draft)",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Non-thermal theories (draft)</span>"
+    ]
   },
   {
     "objectID": "non-thermal-theories.html#the-rouleaux-effect",
     "href": "non-thermal-theories.html#the-rouleaux-effect",
-    "title": "4  Non-thermal theories (draft)",
-    "section": "4.3 The Rouleaux Effect",
-    "text": "4.3 The Rouleaux Effect"
+    "title": "5  Non-thermal theories (draft)",
+    "section": "5.3 The Rouleaux Effect",
+    "text": "5.3 The Rouleaux Effect",
+    "crumbs": [
+      "Effects (draft)",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Non-thermal theories (draft)</span>"
+    ]
   },
   {
     "objectID": "non-thermal-theories.html#microbiome",
     "href": "non-thermal-theories.html#microbiome",
-    "title": "4  Non-thermal theories (draft)",
-    "section": "4.4 Microbiome",
-    "text": "4.4 Microbiome\nA hypothesis about how the microbiome can be affected by exposure to anthropogenic electromagnetic fields and create health effects, may first have been presented in a conference abstract in 2022, for a conference in Sogn og Fjordane in Norway (Manzetti 2022)\n\n\n\n\nChiabrera, A., B. Bianco, E. Moggia, and J. J. Kaufman. 2000. “Zeeman-Stark Modeling of the RF EMF Interaction with Ligand Binding.” Bioelectromagnetics 21 (4): 312–24. https://doi.org/10.1002/(sici)1521-186x(200005)21:4&lt;312::aid-bem7&gt;3.0.co;2-#.\n\n\nManzetti, Sergio. 2022. “On the Potential Underlying Cause of Electromagnetic Field Hypersensitivity: A Connection to the Gut Microbiome.”"
+    "title": "5  Non-thermal theories (draft)",
+    "section": "5.4 Microbiome",
+    "text": "5.4 Microbiome\nA hypothesis about how the microbiome can be affected by exposure to anthropogenic electromagnetic fields and create health effects, may first have been presented in a conference abstract in 2022, for a conference in Sogn og Fjordane in Norway (Manzetti 2022)\n\n\n\n\nChiabrera, A., B. Bianco, E. Moggia, and J. J. Kaufman. 2000. “Zeeman-Stark Modeling of the RF EMF Interaction with Ligand Binding.” Bioelectromagnetics 21 (4): 312–24. https://doi.org/10.1002/(sici)1521-186x(200005)21:4&lt;312::aid-bem7&gt;3.0.co;2-#.\n\n\nManzetti, Sergio. 2022. “On the Potential Underlying Cause of Electromagnetic Field Hypersensitivity: A Connection to the Gut Microbiome.”",
+    "crumbs": [
+      "Effects (draft)",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Non-thermal theories (draft)</span>"
+    ]
+  },
+  {
+    "objectID": "specific_diseases.html",
+    "href": "specific_diseases.html",
+    "title": "7  Specific diseases (draft)",
+    "section": "",
+    "text": "7.1 Cardiovascular disease",
+    "crumbs": [
+      "Effects (draft)",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Specific diseases (draft)</span>"
+    ]
   },
   {
     "objectID": "specific_diseases.html#cardiovascular-disease",
     "href": "specific_diseases.html#cardiovascular-disease",
-    "title": "6  Specific diseases (draft)",
-    "section": "6.1 Cardiovascular disease",
-    "text": "6.1 Cardiovascular disease\n\n6.1.1 Blood pressure\nCell phone calls, and thus radiofrequency radiation, may be related to the development of high blood-pressure (hypertension) , according to a large study using data from the UK Biobank (Ye et al. 2023). Radiation exposure can be assumed to be strongly affected by cell phone usage. Confounding factors and other explanatory models can always exist. Mecanistic models for how a blood pressure increase can happen due to radiofrequency radiation, is a topic for future studies, – and such studies will increase the confidence in the findings from epidemiological studies on cell phone usage or similar exposure, and blood pressure."
+    "title": "7  Specific diseases (draft)",
+    "section": "",
+    "text": "7.1.1 Blood pressure\nCell phone calls, and thus radiofrequency radiation, may be related to the development of high blood-pressure (hypertension) , according to a large study using data from the UK Biobank (Ye et al. 2023). Radiation exposure can be assumed to be strongly affected by cell phone usage. Confounding factors and other explanatory models can always exist. Mecanistic models for how a blood pressure increase can happen due to radiofrequency radiation, is a topic for future studies, – and such studies will increase the confidence in the findings from epidemiological studies on cell phone usage or similar exposure, and blood pressure.",
+    "crumbs": [
+      "Effects (draft)",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Specific diseases (draft)</span>"
+    ]
   },
   {
     "objectID": "specific_diseases.html#cancer",
     "href": "specific_diseases.html#cancer",
-    "title": "6  Specific diseases (draft)",
-    "section": "6.2 Cancer",
-    "text": "6.2 Cancer\n\n\n\n\nYe, Ziliang, Yanjun Zhang, Yuanyuan Zhang, Sisi Yang, Mengyi Liu, Qimeng Wu, Chun Zhou, Panpan He, Xiaoqin Gan, and Xianhui Qin. 2023. “Mobile Phone Calls, Genetic Susceptibility, and New-Onset Hypertension: Results from 212 046 UK Biobank Participants.” European Heart Journal - Digital Health 4 (3): 165–74. https://doi.org/10.1093/ehjdh/ztad024."
+    "title": "7  Specific diseases (draft)",
+    "section": "7.2 Cancer",
+    "text": "7.2 Cancer\n\n\n\n\nYe, Ziliang, Yanjun Zhang, Yuanyuan Zhang, Sisi Yang, Mengyi Liu, Qimeng Wu, Chun Zhou, Panpan He, Xiaoqin Gan, and Xianhui Qin. 2023. “Mobile Phone Calls, Genetic Susceptibility, and New-Onset Hypertension: Results from 212 046 UK Biobank Participants.” European Heart Journal - Digital Health 4 (3): 165–74. https://doi.org/10.1093/ehjdh/ztad024.",
+    "crumbs": [
+      "Effects (draft)",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Specific diseases (draft)</span>"
+    ]
   },
   {
-    "objectID": "exposure-assessment.html",
-    "href": "exposure-assessment.html",
-    "title": "Exposure assessment",
+    "objectID": "real-world-measurements.html",
+    "href": "real-world-measurements.html",
+    "title": "9  Real world measurements (draft)",
     "section": "",
-    "text": "…"
+    "text": "9.1 5G exposure\n2022:\n2024:",
+    "crumbs": [
+      "Exposure assessment",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Real world measurements (draft)</span>"
+    ]
   },
   {
     "objectID": "real-world-measurements.html#g-exposure",
     "href": "real-world-measurements.html#g-exposure",
-    "title": "8  Real world measurements (draft)",
-    "section": "8.1 5G exposure",
-    "text": "8.1 5G exposure\n2022:\n\nColumbia, SC, USA (Koppel and Hardell 2022)\n\n2024:\n\nStockholm, Sweden, 2024 (Hardell and Koppel 2024)\n\n\n\n\n\n\nHardell, Lennart, and Tarmo Koppel. 2024. “Spots with Extremely High Radi-ofrequency Radiation After Deployment of 5G Base Sta-tions in Stockholm, Sweden.” Ann Clin Med Case Rep 14 (4): 1–8.\n\n\nKoppel, Tarmo, and Lennart Hardell. 2022. “Measurements of Radiofrequency Electromagnetic Fields, Including 5G, in the City of Columbia, SC, USA.” World Academy of Sciences Journal 4 (3): 22. https://doi.org/10.3892/wasj.2022.157."
+    "title": "9  Real world measurements (draft)",
+    "section": "",
+    "text": "Columbia, SC, USA (Koppel and Hardell 2022)\n\n\n\nStockholm, Sweden, 2024 (Hardell and Koppel 2024)\n\n\n\n\n\n\nHardell, Lennart, and Tarmo Koppel. 2024. “Spots with Extremely High Radi-ofrequency Radiation After Deployment of 5G Base Sta-tions in Stockholm, Sweden.” Ann Clin Med Case Rep 14 (4): 1–8.\n\n\nKoppel, Tarmo, and Lennart Hardell. 2022. “Measurements of Radiofrequency Electromagnetic Fields, Including 5G, in the City of Columbia, SC, USA.” World Academy of Sciences Journal 4 (3): 22. https://doi.org/10.3892/wasj.2022.157.",
+    "crumbs": [
+      "Exposure assessment",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Real world measurements (draft)</span>"
+    ]
+  },
+  {
+    "objectID": "exposure-in-general.html",
+    "href": "exposure-in-general.html",
+    "title": "10  Exposure in general (draft)",
+    "section": "",
+    "text": "10.1 Fifth generation mobile phone technology (5G)\nNon-user exposure:\nA 2023 study performed measurements “near two 5G New Radio (NR) base stations, one with an Advanced Antenna System (AAS) capable of beamforming and the other a traditional microcell.” (emphasizment/bold part added)(Aerts et al. 2023).\nThey found that exposure was in general lower for non-users than for users, but that “for the non-user, the difference lies in whether they are in a beam or not” and that when there are many users around the base station exposure can generally increase for the non-user.",
+    "crumbs": [
+      "Exposure assessment",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Exposure in general (draft)</span>"
+    ]
   },
   {
     "objectID": "exposure-in-general.html#fifth-generation-mobile-phone-technology-5g",
     "href": "exposure-in-general.html#fifth-generation-mobile-phone-technology-5g",
-    "title": "9  Exposure in general (draft)",
-    "section": "9.1 Fifth generation mobile phone technology (5G)",
-    "text": "9.1 Fifth generation mobile phone technology (5G)\nNon-user exposure:\nA 2023 study performed measurements “near two 5G New Radio (NR) base stations, one with an Advanced Antenna System (AAS) capable of beamforming and the other a traditional microcell.” (emphasizment/bold part added)(Aerts et al. 2023).\nThey found that exposure was in general lower for non-users than for users, but that “for the non-user, the difference lies in whether they are in a beam or not” and that when there are many users around the base station exposure can generally increase for the non-user.\n\n\n\n\nAerts, Sam, Kenneth Deprez, Leen Verloock, Robert G. Olsen, Luc Martens, Phung Tran, and Wout Joseph. 2023. “RF-EMF Exposure Near 5G NR Small Cells.” Sensors (Basel, Switzerland) 23 (6): 3145. https://doi.org/10.3390/s23063145."
+    "title": "10  Exposure in general (draft)",
+    "section": "",
+    "text": "Aerts, Sam, Kenneth Deprez, Leen Verloock, Robert G. Olsen, Luc Martens, Phung Tran, and Wout Joseph. 2023. “RF-EMF Exposure Near 5G NR Small Cells.” Sensors (Basel, Switzerland) 23 (6): 3145. https://doi.org/10.3390/s23063145.",
+    "crumbs": [
+      "Exposure assessment",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Exposure in general (draft)</span>"
+    ]
   },
   {
-    "objectID": "resources.html#idenifying-research-gaps",
-    "href": "resources.html#idenifying-research-gaps",
-    "title": "Resources (draft)",
-    "section": "Idenifying research gaps",
-    "text": "Idenifying research gaps\nIf you are interested in conducting new research on EMFs, the table below with the seven research gaps from Miles (2017) may aid you. What research gap type do you find to be the most important within EMF science?\n\n\n\n\n\nResearch Gap Type\nDefinition\n\n\n\n\nEvidence Gap (Contradictory Evidence Gap)\nResults from studies allow for conclusions in their own right, but are contradictory when examined from a more abstract point of view [Jacobs, 2011; Müller-Bloch & Kranz, 2014; Miles, 2017].\n\n\nKnowledge Gap (Knowledge Void Gap)\nDesired research findings do not exist [Jacobs, 2011; Müller-Bloch & Kranz, 2014; Miles, 2017].\n\n\nPractical-Knowledge Gap (Action-Knowledge Conflict Gap)\nProfessional behavior or practices deviate from research findings or are not covered by research [Jacobs, 2011; Müller-Bloch & Kranz, 2014; Miles, 2017].\n\n\nMethodological Gap (Method and Research Design Gap)\nA variation of research methods is necessary to generate new insights or to avoid distorted findings [Jacobs, 2011; Müller-Bloch & Kranz, 2014; Miles, 2017].\n\n\nEmpirical Gap (Evaluation Void Gap)\nResearch findings or propositions need to be evaluated or empirically verified [Jacobs, 2011; Müller-Bloch & Kranz, 2014; Miles, 2017].\n\n\nTheoretical Gap (Theory Application Void Gap)\nTheory should be applied to certain research issues to generate new insights. There is lack of theory thus a gap exists [Müller-Bloch & Kranz, 2014; Jacobs, 2011; Müller-Bloch & Kranz, 2014; Miles, 2017].\n\n\nPopulation Gap\nResearch regarding the population that is not adequately represented or under-researched in the evidence base of prior research (e.g., gender, race/ethnicity, age, etc.) [Robinson, et al, 2011].\n\n\nSources\nRobinson, Saldanhea, & McKoy (2011); Müller-Bloch & Kranz, (2015); Miles, (2017).\n\n\n\n\n\n\n\n\n\n\n\nMiles, D. Anthony. 2017. “A Taxonomy of Research Gaps: Identifying and Defining the Seven Research Gaps.” In Doctoral Student Workshop: Finding Research Gaps-Research Methods and Strategies, Dallas, Texas, 1–15."
+    "objectID": "literature-db.html",
+    "href": "literature-db.html",
+    "title": "11  Literature data (draft)",
+    "section": "",
+    "text": "11.1 Soviet research\nIn the earliest time of EMF science, much research was done in the Soviet Union.\nBig portions of this body of research may not be available in literature databases. As a starting point of an exploration of the Soviet research, below is a list of some sources discussing this literature.",
+    "crumbs": [
+      "Resources (draft)",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Literature data (draft)</span>"
+    ]
   },
   {
     "objectID": "literature-db.html#soviet-research",
     "href": "literature-db.html#soviet-research",
-    "title": "10  Literature data (draft)",
-    "section": "10.1 Soviet research",
-    "text": "10.1 Soviet research\nIn the earliest time of EMF science, much research was done in the Soviet Union.\nBig portions of this body of research may not be available in literature databases. As a starting point of an exploration of the Soviet research, below is a list of some sources discussing this literature.\n\nGlaser and Dodge (1976)\nD. I. McRee (1979)\nDonald I. McRee (1980)\nKositsky, Nizhelska, and Ponezha (2001)\nKostoff (2019)\nKostoff (2020)\n\n\n\n\n\nGlaser, Zorach R., and Christopher H. Dodge. 1976. “Biomedical Aspects of Radiofrequency and Microwave Radiation: A Review of Selected Soviet, East European, and Western References.” In Biologic Effects of Electromagnetic Waves: Selected Papers of the USNC/URSI Annual Meeting (Boulder, Colorado, Oct. 20-23, 1975), 2–34. HEW Publications (FDA) 77-8010 and 77-8011.\n\n\nKositsky, Nikolai Nikolaevich, Aljona Igorevna Nizhelska, and Grigory Vasil’evich Ponezha. 2001. “Influence of High-Frequency Electromagnetic Radiation at Non-Thermal Intensities on the Human Body.” No Place To Hide-Newsletter of the Cellular Phone Taskforce Inc 3 (1): 1–33.\n\n\nKostoff, Ronald N. 2019. “Adverse Effects of Wireless Radiation.”\n\n\n———. 2020. “The Largest Unethical Medical Experiment in Human History.”\n\n\nMcRee, D. I. 1979. “Review of Soviet/Eastern European Research on Health Aspects of Microwave Radiation.” Bulletin of the New York Academy of Medicine 55 (11): 1133–51.\n\n\nMcRee, Donald I. 1980. “Soviet and Eastern European Research on Biological Effects of Microwave Radiation.” Proceedings of the IEEE 68 (1): 84–91."
+    "title": "11  Literature data (draft)",
+    "section": "",
+    "text": "Glaser and Dodge (1976)\nD. I. McRee (1979)\nDonald I. McRee (1980)\nKositsky, Nizhelska, and Ponezha (2001)\nKostoff (2019)\nKostoff (2020)\n\n\n\n\n\nGlaser, Zorach R., and Christopher H. Dodge. 1976. “Biomedical Aspects of Radiofrequency and Microwave Radiation: A Review of Selected Soviet, East European, and Western References.” In Biologic Effects of Electromagnetic Waves: Selected Papers of the USNC/URSI Annual Meeting (Boulder, Colorado, Oct. 20-23, 1975), 2–34. HEW Publications (FDA) 77-8010 and 77-8011.\n\n\nKositsky, Nikolai Nikolaevich, Aljona Igorevna Nizhelska, and Grigory Vasil’evich Ponezha. 2001. “Influence of High-Frequency Electromagnetic Radiation at Non-Thermal Intensities on the Human Body.” No Place To Hide-Newsletter of the Cellular Phone Taskforce Inc 3 (1): 1–33.\n\n\nKostoff, Ronald N. 2019. “Adverse Effects of Wireless Radiation.”\n\n\n———. 2020. “The Largest Unethical Medical Experiment in Human History.”\n\n\nMcRee, D. I. 1979. “Review of Soviet/Eastern European Research on Health Aspects of Microwave Radiation.” Bulletin of the New York Academy of Medicine 55 (11): 1133–51.\n\n\nMcRee, Donald I. 1980. “Soviet and Eastern European Research on Biological Effects of Microwave Radiation.” Proceedings of the IEEE 68 (1): 84–91.",
+    "crumbs": [
+      "Resources (draft)",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Literature data (draft)</span>"
+    ]
   },
   {
-    "objectID": "long_leaps_and_speculations.html",
-    "href": "long_leaps_and_speculations.html",
-    "title": "13  Long leaps and speculations (draft)",
+    "objectID": "hypotheses.html",
+    "href": "hypotheses.html",
+    "title": "14  Hypotheses(draft)",
     "section": "",
-    "text": "Here are some speculative theories or ideas. The ideas are only sicentific in so far that they are possible to test and disprove (falsify). They might be stimulating, engaging or just fun or provocative to read.\n\nToday, all have their own phones. Particularly with the introduction of the fifth generation of mobile technlogy (5G) and beamforming, being close to others can increase exposure.\nIf it is so that RF-EMF is a stressor, a question becomes, can there be subliminal conditioning (pavlovian), where the body experience stress when close to others, and thus starts to associate being close to others as stressful.\nHow can such a theory be tested? Rats can be mounted with their own mini “mobile phone” with beamforming technology in a rat city with transmission antennas around the “city”. Control groups do not have their own phone. Will the rats become less social?"
+    "text": "14.1 List of novel hypotesises or research questions",
+    "crumbs": [
+      "Resources (draft)",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Hypotheses(draft)</span>"
+    ]
+  },
+  {
+    "objectID": "hypotheses.html#list-of-novel-hypotesises-or-research-questions",
+    "href": "hypotheses.html#list-of-novel-hypotesises-or-research-questions",
+    "title": "14  Hypotheses(draft)",
+    "section": "",
+    "text": "Can RF radiation increase strength of risk from UV light exposure?",
+    "crumbs": [
+      "Resources (draft)",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Hypotheses(draft)</span>"
+    ]
+  },
+  {
+    "objectID": "hypotheses.html#long-leaps-and-speculations",
+    "href": "hypotheses.html#long-leaps-and-speculations",
+    "title": "14  Hypotheses(draft)",
+    "section": "14.2 Long leaps and speculations",
+    "text": "14.2 Long leaps and speculations\nHere are some speculative theories or ideas. The ideas are only sicentific in so far that they are possible to test and disprove (falsify). They might be stimulating, engaging or just fun or provocative to read.\n\nToday, all have their own phones. Particularly with the introduction of the fifth generation of mobile technlogy (5G) and beamforming, being close to others can increase exposure.\nIf it is so that RF-EMF is a stressor, a question becomes, can there be subliminal conditioning (pavlovian), where the body experience stress when close to others, and thus starts to associate being close to others as stressful.\nHow can such a theory be tested? Rats can be mounted with their own mini “mobile phone” with beamforming technology in a rat city with transmission antennas around the “city”. Control groups do not have their own phone. Will the rats become less social?",
+    "crumbs": [
+      "Resources (draft)",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Hypotheses(draft)</span>"
+    ]
   },
   {
     "objectID": "terms.html",
     "href": "terms.html",
-    "title": "14  Terms to use (draft)",
+    "title": "15  Terms to use (draft)",
     "section": "",
-    "text": "Many phenomena within this research field have av diverse nomencalature.\nIn this chapter we list various terms with examples on usage.\n\n\n\nelectromagnetic radiation\n\n\nelectromagnetic radiation emitted by wireless communication devices\nFrom (Leszczynski 2025)\n\n\n\n\n\nLeszczynski, Dariusz. 2025. “Wireless Radiation and Health: Making the Case for Proteomics Research of Individual Sensitivity.” Frontiers in Public Health 12 (January). https://doi.org/10.3389/fpubh.2024.1543818."
+    "text": "Many phenomena within this research field have av diverse nomencalature.\nIn this chapter we list various terms with examples on usage.\n\n\n\nelectromagnetic radiation\n\n\nelectromagnetic radiation emitted by wireless communication devices\nFrom (Leszczynski 2025)\n\n\n\n\n\nLeszczynski, Dariusz. 2025. “Wireless Radiation and Health: Making the Case for Proteomics Research of Individual Sensitivity.” Frontiers in Public Health 12 (January). https://doi.org/10.3389/fpubh.2024.1543818.",
+    "crumbs": [
+      "Resources (draft)",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Terms to use (draft)</span>"
+    ]
   },
   {
     "objectID": "references.html",
     "href": "references.html",
     "title": "References",
     "section": "",
-    "text": "Aerts, Sam, Kenneth Deprez, Leen Verloock, Robert G. Olsen, Luc Martens,\nPhung Tran, and Wout Joseph. 2023. “RF-EMF Exposure\nNear 5G NR Small Cells.” Sensors (Basel,\nSwitzerland) 23 (6): 3145. https://doi.org/10.3390/s23063145.\n\n\nChiabrera, A., B. Bianco, E. Moggia, and J. J. Kaufman. 2000.\n“Zeeman-Stark Modeling of the RF EMF\nInteraction with Ligand Binding.” Bioelectromagnetics 21\n(4): 312–24. https://doi.org/10.1002/(sici)1521-186x(200005)21:4&lt;312::aid-bem7&gt;3.0.co;2-#.\n\n\nGlaser, Zorach R., and Christopher H. Dodge. 1976. “Biomedical\nAspects of Radiofrequency and Microwave Radiation: A Review of Selected\nSoviet, East European, and\nWestern References.” In Biologic\nEffects of Electromagnetic Waves:\nSelected Papers of the USNC/URSI Annual\nMeeting (Boulder, Colorado,\nOct. 20-23, 1975), 2–34. HEW Publications (FDA)\n77-8010 and 77-8011.\n\n\nHardell, Lennart, and Tarmo Koppel. 2024. “Spots with Extremely High Radi-ofrequency Radiation After\nDeployment of 5G Base Sta-tions in\nStockholm, Sweden.” Ann Clin Med\nCase Rep 14 (4): 1–8.\n\n\nKoppel, Tarmo, and Lennart Hardell. 2022. “Measurements of\nRadiofrequency Electromagnetic Fields, Including 5G, in the\nCity of Columbia, SC,\nUSA.” World Academy of Sciences Journal 4\n(3): 22. https://doi.org/10.3892/wasj.2022.157.\n\n\nKositsky, Nikolai Nikolaevich, Aljona Igorevna Nizhelska, and Grigory\nVasil’evich Ponezha. 2001. “Influence of High-Frequency\nElectromagnetic Radiation at Non-Thermal Intensities on the Human\nBody.” No Place To Hide-Newsletter of the Cellular Phone\nTaskforce Inc 3 (1): 1–33.\n\n\nKostoff, Ronald N. 2019. “Adverse Effects of\nWireless Radiation.”\n\n\n———. 2020. “The Largest Unethical Medical Experiment\nin Human History.”\n\n\nLeszczynski, Dariusz. 2025. “Wireless Radiation and Health: Making\nthe Case for Proteomics Research of Individual Sensitivity.”\nFrontiers in Public Health 12 (January). https://doi.org/10.3389/fpubh.2024.1543818.\n\n\nManzetti, Sergio. 2022. “On the Potential Underlying Cause of\nElectromagnetic Field Hypersensitivity: A Connection to the Gut\nMicrobiome.”\n\n\nMcRee, D. I. 1979. “Review of\nSoviet/Eastern European Research on Health\nAspects of Microwave Radiation.” Bulletin of the New York\nAcademy of Medicine 55 (11): 1133–51.\n\n\nMcRee, Donald I. 1980. “Soviet and Eastern European\nResearch on Biological Effects of Microwave Radiation.”\nProceedings of the IEEE 68 (1): 84–91.\n\n\nMiles, D. Anthony. 2017. “A Taxonomy of Research Gaps:\nIdentifying and Defining the Seven Research Gaps.”\nIn Doctoral Student Workshop: Finding Research Gaps-Research Methods\nand Strategies, Dallas, Texas, 1–15.\n\n\nYe, Ziliang, Yanjun Zhang, Yuanyuan Zhang, Sisi Yang, Mengyi Liu, Qimeng\nWu, Chun Zhou, Panpan He, Xiaoqin Gan, and Xianhui Qin. 2023.\n“Mobile Phone Calls, Genetic Susceptibility, and New-Onset\nHypertension: Results from 212 046 UK Biobank\nParticipants.” European Heart Journal - Digital Health 4\n(3): 165–74. https://doi.org/10.1093/ehjdh/ztad024."
+    "text": "Aerts, Sam, Kenneth Deprez, Leen Verloock, Robert G. Olsen, Luc Martens,\nPhung Tran, and Wout Joseph. 2023. “RF-EMF Exposure\nNear 5G NR Small Cells.” Sensors (Basel,\nSwitzerland) 23 (6): 3145. https://doi.org/10.3390/s23063145.\n\n\nChiabrera, A., B. Bianco, E. Moggia, and J. J. Kaufman. 2000.\n“Zeeman-Stark Modeling of the RF EMF\nInteraction with Ligand Binding.” Bioelectromagnetics 21\n(4): 312–24. https://doi.org/10.1002/(sici)1521-186x(200005)21:4&lt;312::aid-bem7&gt;3.0.co;2-#.\n\n\nGlaser, Zorach R., and Christopher H. Dodge. 1976. “Biomedical\nAspects of Radiofrequency and Microwave Radiation: A Review of Selected\nSoviet, East European, and\nWestern References.” In Biologic\nEffects of Electromagnetic Waves:\nSelected Papers of the USNC/URSI Annual\nMeeting (Boulder, Colorado,\nOct. 20-23, 1975), 2–34. HEW Publications (FDA)\n77-8010 and 77-8011.\n\n\nHardell, Lennart, and Tarmo Koppel. 2024. “Spots with Extremely High Radi-ofrequency Radiation After\nDeployment of 5G Base Sta-tions in\nStockholm, Sweden.” Ann Clin Med\nCase Rep 14 (4): 1–8.\n\n\nKoppel, Tarmo, and Lennart Hardell. 2022. “Measurements of\nRadiofrequency Electromagnetic Fields, Including 5G, in the\nCity of Columbia, SC,\nUSA.” World Academy of Sciences Journal 4\n(3): 22. https://doi.org/10.3892/wasj.2022.157.\n\n\nKositsky, Nikolai Nikolaevich, Aljona Igorevna Nizhelska, and Grigory\nVasil’evich Ponezha. 2001. “Influence of High-Frequency\nElectromagnetic Radiation at Non-Thermal Intensities on the Human\nBody.” No Place To Hide-Newsletter of the Cellular Phone\nTaskforce Inc 3 (1): 1–33.\n\n\nKostoff, Ronald N. 2019. “Adverse Effects of\nWireless Radiation.”\n\n\n———. 2020. “The Largest Unethical Medical Experiment\nin Human History.”\n\n\nLeszczynski, Dariusz. 2025. “Wireless Radiation and Health: Making\nthe Case for Proteomics Research of Individual Sensitivity.”\nFrontiers in Public Health 12 (January). https://doi.org/10.3389/fpubh.2024.1543818.\n\n\nManzetti, Sergio. 2022. “On the Potential Underlying Cause of\nElectromagnetic Field Hypersensitivity: A Connection to the Gut\nMicrobiome.”\n\n\nMcRee, D. I. 1979. “Review of\nSoviet/Eastern European Research on Health\nAspects of Microwave Radiation.” Bulletin of the New York\nAcademy of Medicine 55 (11): 1133–51.\n\n\nMcRee, Donald I. 1980. “Soviet and Eastern European\nResearch on Biological Effects of Microwave Radiation.”\nProceedings of the IEEE 68 (1): 84–91.\n\n\nMiles, D. Anthony. 2017. “A Taxonomy of Research Gaps:\nIdentifying and Defining the Seven Research Gaps.”\nIn Doctoral Student Workshop: Finding Research Gaps-Research Methods\nand Strategies, Dallas, Texas, 1–15.\n\n\nYe, Ziliang, Yanjun Zhang, Yuanyuan Zhang, Sisi Yang, Mengyi Liu, Qimeng\nWu, Chun Zhou, Panpan He, Xiaoqin Gan, and Xianhui Qin. 2023.\n“Mobile Phone Calls, Genetic Susceptibility, and New-Onset\nHypertension: Results from 212 046 UK Biobank\nParticipants.” European Heart Journal - Digital Health 4\n(3): 165–74. https://doi.org/10.1093/ehjdh/ztad024.",
+    "crumbs": [
+      "References"
+    ]
+  },
+  {
+    "objectID": "emf-characteristics.html",
+    "href": "emf-characteristics.html",
+    "title": "Characteristics (draft)",
+    "section": "",
+    "text": "This chapter …",
+    "crumbs": [
+      "Characteristics (draft)"
+    ]
+  },
+  {
+    "objectID": "exposure-assessment.html",
+    "href": "exposure-assessment.html",
+    "title": "Exposure assessment",
+    "section": "",
+    "text": "…",
+    "crumbs": [
+      "Exposure assessment"
+    ]
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources (draft)",
+    "section": "",
+    "text": "Idenifying research gaps\nIf you are interested in conducting new research on EMFs, the table below with the seven research gaps from Miles (2017) may aid you. What research gap type do you find to be the most important within EMF science?\nResearch Gap Type\nDefinition\n\n\n\n\nEvidence Gap (Contradictory Evidence Gap)\nResults from studies allow for conclusions in their own right, but are contradictory when examined from a more abstract point of view [Jacobs, 2011; Müller-Bloch & Kranz, 2014; Miles, 2017].\n\n\nKnowledge Gap (Knowledge Void Gap)\nDesired research findings do not exist [Jacobs, 2011; Müller-Bloch & Kranz, 2014; Miles, 2017].\n\n\nPractical-Knowledge Gap (Action-Knowledge Conflict Gap)\nProfessional behavior or practices deviate from research findings or are not covered by research [Jacobs, 2011; Müller-Bloch & Kranz, 2014; Miles, 2017].\n\n\nMethodological Gap (Method and Research Design Gap)\nA variation of research methods is necessary to generate new insights or to avoid distorted findings [Jacobs, 2011; Müller-Bloch & Kranz, 2014; Miles, 2017].\n\n\nEmpirical Gap (Evaluation Void Gap)\nResearch findings or propositions need to be evaluated or empirically verified [Jacobs, 2011; Müller-Bloch & Kranz, 2014; Miles, 2017].\n\n\nTheoretical Gap (Theory Application Void Gap)\nTheory should be applied to certain research issues to generate new insights. There is lack of theory thus a gap exists [Müller-Bloch & Kranz, 2014; Jacobs, 2011; Müller-Bloch & Kranz, 2014; Miles, 2017].\n\n\nPopulation Gap\nResearch regarding the population that is not adequately represented or under-researched in the evidence base of prior research (e.g., gender, race/ethnicity, age, etc.) [Robinson, et al, 2011].\n\n\nSources\nRobinson, Saldanhea, & McKoy (2011); Müller-Bloch & Kranz, (2015); Miles, (2017).",
+    "crumbs": [
+      "Resources (draft)"
+    ]
+  },
+  {
+    "objectID": "resources.html#idenifying-research-gaps",
+    "href": "resources.html#idenifying-research-gaps",
+    "title": "Resources (draft)",
+    "section": "",
+    "text": "Miles, D. Anthony. 2017. “A Taxonomy of Research Gaps: Identifying and Defining the Seven Research Gaps.” In Doctoral Student Workshop: Finding Research Gaps-Research Methods and Strategies, Dallas, Texas, 1–15.",
+    "crumbs": [
+      "Resources (draft)"
+    ]
   }
 ]

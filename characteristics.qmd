@@ -1,0 +1,17 @@
+# Characteristics of electromagnetic fields and radiation
+
+## 
+
+## Natural electromagnetism
+
+### Space and the sun
+
+*Coronal mass ejection (CME)*: 
+Ejection of plasma mass from the sun. One often talks about flares, and flares 
+of different strength, e.g. X1 to X100. The Carrington event (1859) is said to
+have been between X45 or  X80 flare (ADD REFERENCE). One also talk about the 
+KP-index – the geomagnetic storm index, with values like typically Kp5-Kp9.
+
+
+*Cosmic microwave background radiation* (CMB(R)): (LOOK UP AND IMPROVE TERMINOLOGY
+AND ABREVIATION, NOT SURE IF THIS IS USED OR COMMONLY USED) 

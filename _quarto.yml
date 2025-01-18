@@ -13,6 +13,7 @@ book:
     
     - part: emf-characteristics.qmd
       chapters:
+        - characteristics.qmd
         - nomenclature.qmd
     
     - part: effects.qmd
@@ -36,7 +37,7 @@ book:
         - literature-db.qmd
         - open-data.qmd
         - research-world.qmd
-        - long_leaps_and_speculations.qmd
+        - hypotheses.qmd
         - terms.qmd
     
     - references.qmd

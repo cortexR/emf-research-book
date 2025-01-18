@@ -1,3 +1,3 @@
 # Characteristics (draft)
 
-## Characteristics of electromagnetic fields and radiation
+This chapter ...
