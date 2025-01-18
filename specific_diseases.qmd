@@ -8,4 +8,4 @@ Cell phone calls, and thus radiofrequency radiation, may be related to the devel
 
 ## Cancer
 
-One of the earliest finding of cancer (malignant tumors) fom RF exposure was found in rats in 1984 [@microwavenewsMicrowavesPromoteCancer1984] The finding came after exposure to low level pulsed 2450 MHz radiation, in the first long-term study on microwave exposure in the United States, funded by the U.S. Air Force.
+One of the earliest finding of cancer (malignant tumors) fom RF exposure was found in rats in 1984 [@microwavenewsMicrowavesPromoteCancer1984] The finding came after exposure to low level pulsed 2450 MHz radiation, in the first long-term study on microwave exposure in the United States, funded by the U.S. Air Force in a \$5 million (1984 value) dollar study. Notably, it took eight years from the findings were first presented at a conference until they were published in a scientific journal [@microwavenewsUpdatesGuyStudy1993;@chouLongtermLowlevelMicrowave1992].
