@@ -106,7 +106,7 @@ OVID allows you to search though multiple databases
 * Clinical reference sources: BMJ Best Practices, UpToDate
 
 
-#### AI tools for literature reviews
+#### **AI tools for literature reviews**
 
 A lot of journals (but not all) submit publications to Semantic Scholar.
 
@@ -179,6 +179,20 @@ PsychINFO by APA is a database for literature within the discipline of psycholog
 > APA PsycInfo at a glance • Over 5,000,000 peer-reviewed records • 144 million cited references • Spanning 600 years of content • Updated twice-weekly • Research in 30 languages from 50 countries • Records from 2,400 journals • Content from journal articles, book chapters, and dissertations • AI and machine learning-powered research assistance
 
 ### Databases that possibly capture literature in languages other than English
+
+#### LIVIVO by ZB MED (German)
+
+About LIVIVO:
+
+> LIVIVO is Europe’s largest search engine for literature and information (research data) in the field of life sciences. It is run by ZB MED – Information Centre for Life Sciences. Drawing on nearly 80 million data records, it brings together under one roof the specialist subjects of medicine and health and nutritional, environmental and agricultural sciences. With comprehensive coverage of its core subjects, it supports interdisciplinarity and transdisciplinarity in academic and scientific works.
+
+About ZB MED:
+
+> ZB MED – Information Centre for Life Sciences is Germany’s national infrastructure and research hub for data and information in the life sciences. Our digital services support research projects that benefit people and the environment: from medicine and biodiversity to environmental protection.
+
+[ZBMED](https://www.zbmed.de/) 
+
+
 
 #### **LILACS**
 
