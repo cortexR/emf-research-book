@@ -206,7 +206,7 @@ Go to [ZBMED](https://www.zbmed.de/) to search LIVIVO.
 
 The quote is from this [link](https://s4be.cochrane.org/blog/2021/04/06/main-databases-for-literature-search/).
 
-#### WHO Global Index Medicus (GIM)
+#### **WHO Global Index Medicus (GIM)**
 
 [WHO Global Index Medicus](https://www.globalindexmedicus.net/)
 
@@ -218,7 +218,7 @@ The quote is from this [link](https://www.globalindexmedicus.net/about-gim/).
 ### Grey literature
 
 
-#### Open Grey System for Information on Grey Literature in Europe 
+#### **Open Grey System for Information on Grey Literature in Europe** 
 
 [Opengrey.eu](http://www.opengrey.eu/)
 
@@ -231,7 +231,7 @@ The quote is from this [link](http://www.opengrey.eu/).
 
 Kilder til kliniske oppslagsverk, pågående studier og grå litteratur.
 
-#### OAIster (oclc.org)
+#### **OAIster (oclc.org)**
 
 [OAIster](https://www.oclc.org/en/oaister.html)
 
@@ -240,7 +240,7 @@ Kilder til kliniske oppslagsverk, pågående studier og grå litteratur.
 
 ### Books and online libraries
 
-Some (40) sites to find books are (from [@ScholarshipfPhd X/Twittter post](https://x.com/ScholarshipfPhd/status/1943439918245781639?s=09)):
+Some (40) sites to find books are (from [ScholarshipfPhd X/Twittter post](https://x.com/ScholarshipfPhd/status/1943439918245781639?s=09)):
 
 1. Planet eBook
 2. Free-eBooks. net
