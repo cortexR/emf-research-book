@@ -190,7 +190,7 @@ About ZB MED:
 
 > ZB MED – Information Centre for Life Sciences is Germany’s national infrastructure and research hub for data and information in the life sciences. Our digital services support research projects that benefit people and the environment: from medicine and biodiversity to environmental protection.
 
-[ZBMED](https://www.zbmed.de/) 
+Go to [ZBMED](https://www.zbmed.de/) to search LIVIVO.
 
 
 
@@ -205,6 +205,95 @@ About ZB MED:
 > Health Sciences Descriptors (DeCS) is the multilingual and structured vocabulary created by BIREME to serve as a unique language in indexing articles from scientific journals, books, congress proceedings, technical reports, and other types of materials, and also for searching and retrieving subjects from scientific literature from information sources available on the Virtual Health Library (VHL) such as LILACS, MEDLINE, and others. It was developed from the MeSH with the purpose of permitting the use of common terminology for searching in multiple languages, and providing a consistent and unique environment for the retrieval of information. DeCS vocabulary is dynamic and totals 34,118 descriptors and qualifiers, of which 29,716 come from MeSH, and 4,402 are exclusive.
 
 The quote is from this [link](https://s4be.cochrane.org/blog/2021/04/06/main-databases-for-literature-search/).
+
+#### WHO Global Index Medicus (GIM)
+
+[WHO Global Index Medicus](https://www.globalindexmedicus.net/)
+
+> The Global Index Medicus (GIM) provides worldwide access to biomedical and public health literature produced by and within low-middle income countries. The main objective is to increase the visibility and usability of this important set of resources. The material is collated and aggregated by WHO Regional Office Libraries on a central search platform allowing retrieval of bibliographical and full text information.
+
+The quote is from this [link](https://www.globalindexmedicus.net/about-gim/).
+
+
+### Grey literature
+
+
+#### Open Grey System for Information on Grey Literature in Europe 
+
+[Opengrey.eu](http://www.opengrey.eu/)
+
+No longer maintained:
+
+> The System for Information on Grey Literature in Europe used to give open access to 700.000 bibliographical references of grey literature (paper) produced in Europe and allowed to export records and locate the documents.
+
+The quote is from this [link](http://www.opengrey.eu/).
+
+
+Kilder til kliniske oppslagsverk, pågående studier og grå litteratur.
+
+#### OAIster (oclc.org)
+
+[OAIster](https://www.oclc.org/en/oaister.html)
+
+> OAIster is a union catalog of millions of records that represent open access resources. This catalog was built through harvesting from open access collections worldwide using the Open Archives Initiative Protocol for Metadata Harvesting (OAI-PMH). Today, OAIster includes more than 50 million records that represent digital resources from more than 2,000 contributors.
+
+
+### Books and online libraries
+
+Some (40) sites to find books are (from [@ScholarshipfPhd X/Twittter post](https://x.com/ScholarshipfPhd/status/1943439918245781639?s=09)):
+
+1. Planet eBook
+2. Free-eBooks. net
+3. ManyBooks
+4. LibriVox
+5. Internet Archive
+6. BookBub
+7. Open Library
+8. BookBoon
+9. Feedbooks
+10. Smashwords
+11. Project Gutenberg
+12. Google Books
+13. PDFBooksWorld
+14. FreeTechBooks
+15. Bookyards
+16. GetFreeBooks
+17. eBookLobby
+18. FreeComputerBooks
+19. OpenCulture
+20. Library Genesis (LibGen)
+21. Goodreads
+22. Obooko
+23. O'Reilly
+24. PDF Drive
+25. Anna's Archive
+26. PDF Room
+27. PDF Coffee
+28. Dokumen Pub
+29. Z Library
+30. Ocean of PDF
+31. Dirzon
+32. Booksfree
+33. EngbooksPDF
+34. Elejandria
+35. Espaebook
+36. Wonderful Books
+37. Lectuland
+38. LeerLibrosOnline
+39. ePubLibre
+40. Standard Ebooks
+
+#### Libraries
+
+The national library in Great Britain: 
+British Library [explore.bl.uk](http://explore.bl.uk/)
+
+The world's biggest library - the library of the congress in the United States:
+[Library of congress](catalog.loc.gov) 
+
+[WorldCat](https://search.worldcat.org):
+> WorldCat is the world’s largest library catalog, helping you find library materials online 
+
 
 ## Finding a journal to publish in
 
