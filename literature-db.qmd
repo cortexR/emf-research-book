@@ -13,6 +13,10 @@ Big portions of this body of research may not be available in literature databas
 -   @kostoffAdverseEffectsWireless2019
 -   @kostoffLargestUnethicalMedical2020
 
+## General articles about EMF research history
+
+-   @michaelsonHistoricalDevelopmentStudy1985
+
 ## Short notes about general databases for scientific literature
 
 ### Biomedical and health literature databases
