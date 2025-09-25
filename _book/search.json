@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "The EMF Research Book (draft edition)",
     "section": "",
-    "text": "Preface\n\n\n\n\n\n\nTip\n\n\n\nThe best book for scientific ideas, including generating new ideas and bringing ideas to life – within the field of biological and health effects of electromagnetic fields (EMF).\n\n\nThis is a collection of theories and hypotheses related to the study of biological and health effects of non-ionizing radiation.\nThe book is an open science project started in 2024 and is work in progress. A final edition may take years to complete. Scientists and authors familiar with the topic can contribute and will be credited for any contribution. If you want to contribute, you can simply submit additions and revisions at the book’s GitHub repository. Currently, I serve as the editor, but that may be changed if more experienced authors decide to contribute.\nThe book at this page will remain free. The book is licensed under CC BY-NC-ND 4.0. Potentially, additional paperback, hard copy or e-book editions can be made available for sale at a future point in time.\nThe aim of the book is to be a comprehensive list of the theories and hypotheses related to non-ionizing radiation that can be used for researchers and others who want to familiar themselves with the topic; look up potential frameworks to interpret findings; or explore research gaps and possible new research questions and methods.\nThe aim is not to discuss specific research findings, but rather to provide a scope of theories. However, relevant scientific references for each theory should be included. But to support the progress of the development of this book, such lists may most often not be exhaustive, meaning that a theory may be included with one reference initially that is not necessarily the most updated and correct reference.\nIt is also not the aim that theories or hypotheses included should have been proven to be correct (or scientifically speaking, not haven been falsified). Theories that are speculative, or even wrong, may also be included, and the reader should be aware this. The reason for this is that ideas that have not yet been researched may have extra value in that they may point to research gaps, and theories that have proven wrong may prohibit other researchers to waste their efforst following that same path.",
+    "text": "Preface\n\n\n\n\n\n\nTip\n\n\n\nThe best book for scientific ideas, including generating new ideas and bringing ideas to life – within the field of biological and health effects of electromagnetic fields (EMF).\n\n\nThis is a collection of theories and hypotheses related to the study of biological and health effects of non-ionizing radiation.\n\n\n\n\nCopyright © 2025 Mads K. Rohde. All Rights Reserved.\nThe aim of the book is to be a comprehensive list of the theories and hypotheses related to non-ionizing radiation that can be used for researchers and others who want to familiar themselves with the topic; look up potential frameworks to interpret findings; or explore research gaps and possible new research questions and methods.\nThe aim is not to discuss specific research findings, but rather to provide a scope of theories. However, relevant scientific references for each theory should be included. But to support the progress of the development of this book, such lists may most often not be exhaustive, meaning that a theory may be included with one reference initially that is not necessarily the most updated and correct reference.\nIt is also not the aim that theories or hypotheses included should have been proven to be correct (or scientifically speaking, not haven been falsified). Theories that are speculative, or even wrong, may also be included, and the reader should be aware this. The reason for this is that ideas that have not yet been researched may have extra value in that they may point to research gaps, and theories that have proven wrong may prohibit other researchers to waste their efforst following that same path.",
     "crumbs": [
       "Preface"
     ]
@@ -17,6 +17,16 @@
     "text": "Electromagnetic fields are …",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction (draft)</span>"
+    ]
+  },
+  {
+    "objectID": "emf-characteristics.html",
+    "href": "emf-characteristics.html",
+    "title": "Characteristics (draft)",
+    "section": "",
+    "text": "This chapter …",
+    "crumbs": [
+      "Characteristics (draft)"
     ]
   },
   {
@@ -130,6 +140,16 @@
     ]
   },
   {
+    "objectID": "exposure-assessment.html",
+    "href": "exposure-assessment.html",
+    "title": "Exposure assessment",
+    "section": "",
+    "text": "…",
+    "crumbs": [
+      "Exposure assessment"
+    ]
+  },
+  {
     "objectID": "real-world-measurements.html",
     "href": "real-world-measurements.html",
     "title": "9  Real world measurements (draft)",
@@ -171,6 +191,26 @@
     "crumbs": [
       "Exposure assessment",
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>Exposure in general (draft)</span>"
+    ]
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources (draft)",
+    "section": "",
+    "text": "Idenifying research gaps\nIn this part of the book, various resources that can aid in research on electromagnetic fields. The various chapters holds resources such as information on literature databases, open data and scientific communities around the world.\nIf you are interested in conducting new research on EMFs, the table below with the seven research gaps from Miles (2017) may aid you. What research gap type do you find to be the most important within EMF science?\nResearch Gap Type\nDefinition\n\n\n\n\nEvidence Gap (Contradictory Evidence Gap)\nResults from studies allow for conclusions in their own right, but are contradictory when examined from a more abstract point of view [Jacobs, 2011; Müller-Bloch & Kranz, 2014; Miles, 2017].\n\n\nKnowledge Gap (Knowledge Void Gap)\nDesired research findings do not exist [Jacobs, 2011; Müller-Bloch & Kranz, 2014; Miles, 2017].\n\n\nPractical-Knowledge Gap (Action-Knowledge Conflict Gap)\nProfessional behavior or practices deviate from research findings or are not covered by research [Jacobs, 2011; Müller-Bloch & Kranz, 2014; Miles, 2017].\n\n\nMethodological Gap (Method and Research Design Gap)\nA variation of research methods is necessary to generate new insights or to avoid distorted findings [Jacobs, 2011; Müller-Bloch & Kranz, 2014; Miles, 2017].\n\n\nEmpirical Gap (Evaluation Void Gap)\nResearch findings or propositions need to be evaluated or empirically verified [Jacobs, 2011; Müller-Bloch & Kranz, 2014; Miles, 2017].\n\n\nTheoretical Gap (Theory Application Void Gap)\nTheory should be applied to certain research issues to generate new insights. There is lack of theory thus a gap exists [Müller-Bloch & Kranz, 2014; Jacobs, 2011; Müller-Bloch & Kranz, 2014; Miles, 2017].\n\n\nPopulation Gap\nResearch regarding the population that is not adequately represented or under-researched in the evidence base of prior research (e.g., gender, race/ethnicity, age, etc.) [Robinson, et al, 2011].\n\n\nSources\nRobinson, Saldanhea, & McKoy (2011); Müller-Bloch & Kranz, (2015); Miles, (2017).",
+    "crumbs": [
+      "Resources (draft)"
+    ]
+  },
+  {
+    "objectID": "resources.html#idenifying-research-gaps",
+    "href": "resources.html#idenifying-research-gaps",
+    "title": "Resources (draft)",
+    "section": "",
+    "text": "Miles, D. Anthony. 2017. “A Taxonomy of Research Gaps: Identifying and Defining the Seven Research Gaps.” In Doctoral Student Workshop: Finding Research Gaps-Research Methods and Strategies, Dallas, Texas, 1–15.",
+    "crumbs": [
+      "Resources (draft)"
     ]
   },
   {
@@ -280,46 +320,6 @@
     "text": "Aerts, Sam, Kenneth Deprez, Leen Verloock, Robert G. Olsen, Luc Martens,\nPhung Tran, and Wout Joseph. 2023. “RF-EMF Exposure\nNear 5G NR Small Cells.” Sensors (Basel,\nSwitzerland) 23 (6): 3145. https://doi.org/10.3390/s23063145.\n\n\nChiabrera, A., B. Bianco, E. Moggia, and J. J. Kaufman. 2000.\n“Zeeman-Stark Modeling of the RF EMF\nInteraction with Ligand Binding.” Bioelectromagnetics 21\n(4): 312–24. https://doi.org/10.1002/(sici)1521-186x(200005)21:4&lt;312::aid-bem7&gt;3.0.co;2-#.\n\n\nChou, C. K., A. W. Guy, L. L. Kunz, R. B. Johnson, J. J. Crowley, and J.\nH. Krupp. 1992. “Long-Term, Low-Level Microwave Irradiation of\nRats.” Bioelectromagnetics 13 (6): 469–96. https://doi.org/10.1002/bem.2250130605.\n\n\nGlaser, Zorach R., and Christopher H. Dodge. 1976. “Biomedical\nAspects of Radiofrequency and Microwave Radiation: A Review of Selected\nSoviet, East European, and\nWestern References.” In Biologic\nEffects of Electromagnetic Waves:\nSelected Papers of the USNC/URSI Annual\nMeeting (Boulder, Colorado,\nOct. 20-23, 1975), 2–34. HEW Publications (FDA)\n77-8010 and 77-8011.\n\n\nHardell, Lennart, and Tarmo Koppel. 2024. “Spots with Extremely High Radi-ofrequency Radiation After\nDeployment of 5G Base Sta-tions in\nStockholm, Sweden.” Ann Clin Med\nCase Rep 14 (4): 1–8.\n\n\nKoppel, Tarmo, and Lennart Hardell. 2022. “Measurements of\nRadiofrequency Electromagnetic Fields, Including 5G, in the\nCity of Columbia, SC,\nUSA.” World Academy of Sciences Journal 4\n(3): 22. https://doi.org/10.3892/wasj.2022.157.\n\n\nKositsky, Nikolai Nikolaevich, Aljona Igorevna Nizhelska, and Grigory\nVasil’evich Ponezha. 2001. “Influence of High-Frequency\nElectromagnetic Radiation at Non-Thermal Intensities on the Human\nBody.” No Place To Hide-Newsletter of the Cellular Phone\nTaskforce Inc 3 (1): 1–33.\n\n\nKostoff, Ronald N. 2019. “Adverse Effects of\nWireless Radiation.”\n\n\n———. 2020. “The Largest Unethical Medical Experiment\nin Human History.” PDF.\nhttp://hdl.handle.net/1853/62452.\n\n\nLeszczynski, Dariusz. 2025. “Wireless Radiation and Health: Making\nthe Case for Proteomics Research of Individual Sensitivity.”\nFrontiers in Public Health 12 (January). https://doi.org/10.3389/fpubh.2024.1543818.\n\n\nManzetti, Sergio. 2022. “On the Potential Underlying Cause of\nElectromagnetic Field Hypersensitivity: A Connection to the Gut\nMicrobiome.”\n\n\nMcRee, D. I. 1979. “Review of\nSoviet/Eastern European Research on Health\nAspects of Microwave Radiation.” Bulletin of the New York\nAcademy of Medicine 55 (11): 1133–51.\n\n\nMcRee, Donald I. 1980. “Soviet and Eastern European\nResearch on Biological Effects of Microwave Radiation.”\nProceedings of the IEEE 68 (1): 84–91.\n\n\n“MEDLINE Data.” n.d.\nhttps://www.ncbi.nlm.nih.gov/IEB/ToolBox/SDKDOCS/MEDLINE.HTML. Accessed\nMarch 3, 2024.\n\n\nMichaelson, Sol M., Martino Grandolfo, and Alessandro Rindi. 1985.\n“Historical Development of the Study of\nthe Effects of ELF Fields.” In\nBiological Effects and Dosimetry of\nStatic and ELF Electromagnetic Fields,\nedited by M. Grandolfo, S. M. Michaelson, and A. Rindi, 1–13. Boston,\nMA: Springer US. https://doi.org/10.1007/978-1-4613-2099-9_1.\n\n\nMicrowave News. 1984. “Microwaves Promote\nCancer” 4 (6): 1–5.\n\n\n———. 1993. “Updates - Guy Study” 8 (1): 13.\n\n\nMiles, D. Anthony. 2017. “A Taxonomy of Research Gaps:\nIdentifying and Defining the Seven Research Gaps.”\nIn Doctoral Student Workshop: Finding Research Gaps-Research Methods\nand Strategies, Dallas, Texas, 1–15.\n\n\nYe, Ziliang, Yanjun Zhang, Yuanyuan Zhang, Sisi Yang, Mengyi Liu, Qimeng\nWu, Chun Zhou, Panpan He, Xiaoqin Gan, and Xianhui Qin. 2023.\n“Mobile Phone Calls, Genetic Susceptibility, and New-Onset\nHypertension: Results from 212 046 UK Biobank\nParticipants.” European Heart Journal - Digital Health 4\n(3): 165–74. https://doi.org/10.1093/ehjdh/ztad024.",
     "crumbs": [
       "References"
-    ]
-  },
-  {
-    "objectID": "emf-characteristics.html",
-    "href": "emf-characteristics.html",
-    "title": "Characteristics (draft)",
-    "section": "",
-    "text": "This chapter …",
-    "crumbs": [
-      "Characteristics (draft)"
-    ]
-  },
-  {
-    "objectID": "exposure-assessment.html",
-    "href": "exposure-assessment.html",
-    "title": "Exposure assessment",
-    "section": "",
-    "text": "…",
-    "crumbs": [
-      "Exposure assessment"
-    ]
-  },
-  {
-    "objectID": "resources.html",
-    "href": "resources.html",
-    "title": "Resources (draft)",
-    "section": "",
-    "text": "Idenifying research gaps\nIf you are interested in conducting new research on EMFs, the table below with the seven research gaps from Miles (2017) may aid you. What research gap type do you find to be the most important within EMF science?\nResearch Gap Type\nDefinition\n\n\n\n\nEvidence Gap (Contradictory Evidence Gap)\nResults from studies allow for conclusions in their own right, but are contradictory when examined from a more abstract point of view [Jacobs, 2011; Müller-Bloch & Kranz, 2014; Miles, 2017].\n\n\nKnowledge Gap (Knowledge Void Gap)\nDesired research findings do not exist [Jacobs, 2011; Müller-Bloch & Kranz, 2014; Miles, 2017].\n\n\nPractical-Knowledge Gap (Action-Knowledge Conflict Gap)\nProfessional behavior or practices deviate from research findings or are not covered by research [Jacobs, 2011; Müller-Bloch & Kranz, 2014; Miles, 2017].\n\n\nMethodological Gap (Method and Research Design Gap)\nA variation of research methods is necessary to generate new insights or to avoid distorted findings [Jacobs, 2011; Müller-Bloch & Kranz, 2014; Miles, 2017].\n\n\nEmpirical Gap (Evaluation Void Gap)\nResearch findings or propositions need to be evaluated or empirically verified [Jacobs, 2011; Müller-Bloch & Kranz, 2014; Miles, 2017].\n\n\nTheoretical Gap (Theory Application Void Gap)\nTheory should be applied to certain research issues to generate new insights. There is lack of theory thus a gap exists [Müller-Bloch & Kranz, 2014; Jacobs, 2011; Müller-Bloch & Kranz, 2014; Miles, 2017].\n\n\nPopulation Gap\nResearch regarding the population that is not adequately represented or under-researched in the evidence base of prior research (e.g., gender, race/ethnicity, age, etc.) [Robinson, et al, 2011].\n\n\nSources\nRobinson, Saldanhea, & McKoy (2011); Müller-Bloch & Kranz, (2015); Miles, (2017).",
-    "crumbs": [
-      "Resources (draft)"
-    ]
-  },
-  {
-    "objectID": "resources.html#idenifying-research-gaps",
-    "href": "resources.html#idenifying-research-gaps",
-    "title": "Resources (draft)",
-    "section": "",
-    "text": "Miles, D. Anthony. 2017. “A Taxonomy of Research Gaps: Identifying and Defining the Seven Research Gaps.” In Doctoral Student Workshop: Finding Research Gaps-Research Methods and Strategies, Dallas, Texas, 1–15.",
-    "crumbs": [
-      "Resources (draft)"
     ]
   }
 ]
