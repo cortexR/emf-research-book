@@ -17,7 +17,7 @@ Big portions of this body of research may not be available in literature databas
 
 -   @michaelsonHistoricalDevelopmentStudy1985
 
-- @guyBiologicalEffectsElectromagnetic2015
+-   @guyBiologicalEffectsElectromagnetic2015
 
 ## Short notes about general databases for scientific literature
 
