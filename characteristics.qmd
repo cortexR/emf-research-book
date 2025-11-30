@@ -15,7 +15,7 @@ Presman [@presmanElectromagneticFieldsLife1970a, pp. 120-121] provides a descrip
 
 
 
-So pulses has several components, and can happen with both continuous waves (on/off) and a series of smaller pulses within each pulse. 
+So pulses has several components, and can consist of either a continuous wave (being turn on/off) or a series of smaller pulses within each pulse. 
 
 The first component is the amount of time the pulse is on, here 0.1 seconds.
 
@@ -24,9 +24,7 @@ Think of the continuous wave pulse as a burst of radiation, that turns on for th
 The second component is the repition rate, here two times per second. One can infer from that the time the wave is off, here it must be 0.4 seconds, since there are only two 0.1 second pulses per second, i.e. the pulse is off for a total of 0.8 seconds, per second. 
 
 In addition, if the radition is not a continuous wave, it can instead be seen as *pulses within pulses*, or *outer* and *inner* pulses, in such a way that for each two  0.1 second burst, per second there are actually 
-700 smaller 1 µsec long pulses where the radiaion is turned on/off. An *inner* pulses. Since there are 700 pulses per second, but the pulse is only 0.1 second each time, then there are 70 pulses each time the *outer* pulse is on, so 140 pulses in total per second.
-
-
+700 smaller 1 µsec long pulses where the radiaion is turned on/off. *Inner* pulses. Since there are 700 pulses per second, but the pulse is only 0.1 second each time, then there are 70 pulses each time the *outer* pulse is on, so 140 pulses in total per second.
 
 
 ### Polarization
