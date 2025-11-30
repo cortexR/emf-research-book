@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -263,7 +283,12 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#section" id="toc-section" class="nav-link active" data-scroll-target="#section"><span class="header-section-number">2.1</span> </a></li>
+  <li><a href="#clean-waves-versus-waves-used-for-communication" id="toc-clean-waves-versus-waves-used-for-communication" class="nav-link active" data-scroll-target="#clean-waves-versus-waves-used-for-communication"><span class="header-section-number">2.1</span> Clean waves versus waves used for communication</a>
+  <ul class="collapse">
+  <li><a href="#clean-waves" id="toc-clean-waves" class="nav-link" data-scroll-target="#clean-waves"><span class="header-section-number">2.1.1</span> Clean waves</a></li>
+  <li><a href="#pulses" id="toc-pulses" class="nav-link" data-scroll-target="#pulses"><span class="header-section-number">2.1.2</span> Pulses</a></li>
+  <li><a href="#polarization" id="toc-polarization" class="nav-link" data-scroll-target="#polarization"><span class="header-section-number">2.1.3</span> Polarization</a></li>
+  </ul></li>
   <li><a href="#natural-electromagnetism" id="toc-natural-electromagnetism" class="nav-link" data-scroll-target="#natural-electromagnetism"><span class="header-section-number">2.2</span> Natural electromagnetism</a>
   <ul class="collapse">
   <li><a href="#space-and-the-sun" id="toc-space-and-the-sun" class="nav-link" data-scroll-target="#space-and-the-sun"><span class="header-section-number">2.2.1</span> Space and the sun</a></li>
@@ -293,8 +318,27 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="section" class="level2" data-number="2.1">
-<h2 data-number="2.1" class="anchored" data-anchor-id="section"><span class="header-section-number">2.1</span> </h2>
+<section id="clean-waves-versus-waves-used-for-communication" class="level2" data-number="2.1">
+<h2 data-number="2.1" class="anchored" data-anchor-id="clean-waves-versus-waves-used-for-communication"><span class="header-section-number">2.1</span> Clean waves versus waves used for communication</h2>
+<section id="clean-waves" class="level3" data-number="2.1.1">
+<h3 data-number="2.1.1" class="anchored" data-anchor-id="clean-waves"><span class="header-section-number">2.1.1</span> Clean waves</h3>
+</section>
+<section id="pulses" class="level3" data-number="2.1.2">
+<h3 data-number="2.1.2" class="anchored" data-anchor-id="pulses"><span class="header-section-number">2.1.2</span> Pulses</h3>
+<p>When talking about <em>pulsed</em> waves, how can we try to understand what is meant, as concretely as possible?</p>
+<p>Presman <span class="citation" data-cites="presmanElectromagneticFieldsLife1970a">(<a href="references.html#ref-presmanElectromagneticFieldsLife1970a" role="doc-biblioref">Presman 1970, 120–21</a>)</span> provides a description, from which we can infer what <em>pulses</em> really are (my emphasis):</p>
+<blockquote class="blockquote">
+<p>[…] [a] series of experiments in which different regions of the body were exposed to more intense radiation – <strong>pulses of continuous waves</strong> (700-1200 mW/cm² per pulse) <strong>or a series of short pulses</strong> (1 µsec long, 700 pulses/sec, mean power in series 350-380 mW/cm²), <strong>the duration of the pulses and series being 0.1 sec and the repetition rate two per second.</strong></p>
+</blockquote>
+<p>So pulses has several components, and can happen with both continuous waves (on/off) and a series of smaller pulses within each pulse.</p>
+<p>The first component is the amount of time the pulse is on, here 0.1 seconds.</p>
+<p>Think of the continuous wave pulse as a burst of radiation, that turns on for that specific amount of time.</p>
+<p>The second component is the repition rate, here two times per second. One can infer from that the time the wave is off, here it must be 0.4 seconds, since there are only two 0.1 second pulses per second, i.e.&nbsp;the pulse is off for a total of 0.8 seconds, per second.</p>
+<p>In addition, if the radition is not a continuous wave, it can instead be seen as <em>pulses within pulses</em>, or <em>outer</em> and <em>inner</em> pulses, in such a way that for each two 0.1 second burst, per second there are actually 700 smaller 1 µsec long pulses where the radiaion is turned on/off. An <em>inner</em> pulses. Since there are 700 pulses per second, but the pulse is only 0.1 second each time, then there are 70 pulses each time the <em>outer</em> pulse is on, so 140 pulses in total per second.</p>
+</section>
+<section id="polarization" class="level3" data-number="2.1.3">
+<h3 data-number="2.1.3" class="anchored" data-anchor-id="polarization"><span class="header-section-number">2.1.3</span> Polarization</h3>
+</section>
 </section>
 <section id="natural-electromagnetism" class="level2" data-number="2.2">
 <h2 data-number="2.2" class="anchored" data-anchor-id="natural-electromagnetism"><span class="header-section-number">2.2</span> Natural electromagnetism</h2>
@@ -304,6 +348,11 @@ ul.task-list li input[type="checkbox"] {
 <p><em>Cosmic microwave background radiation</em> (CMB(R)): (LOOK UP AND IMPROVE TERMINOLOGY AND ABREVIATION, NOT SURE IF THIS IS USED OR COMMONLY USED)</p>
 
 
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list" style="display: none">
+<div id="ref-presmanElectromagneticFieldsLife1970a" class="csl-entry" role="listitem">
+Presman, A. S. 1970. <em>Electromagnetic <span>Fields</span> and <span>Life</span></em>. Edited by Frank A. Brown. Boston, MA: Springer US. <a href="https://doi.org/10.1007/978-1-4757-0635-2">https://doi.org/10.1007/978-1-4757-0635-2</a>.
+</div>
+</div>
 </section>
 </section>
 

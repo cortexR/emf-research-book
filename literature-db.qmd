@@ -19,6 +19,10 @@ Big portions of this body of research may not be available in literature databas
 
 -   @guyBiologicalEffectsElectromagnetic2015
 
+-   @michaelsonHistoricalDevelopmentStudy1985a
+
+> Consideration of the historical development of the study of biological effects of extremely low frequency (ELF) fields should go back more than 2500 years, when Thales of Miletus (600 B.C.) observed that a piece of amber could be made to acquire the property of attracting small particles by rubbing it with a piece of cloth.
+
 ## Short notes about general databases for scientific literature
 
 ### Biomedical and health literature databases
