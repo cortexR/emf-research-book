@@ -27,7 +27,7 @@ Big portions of this body of research may not be available in literature databas
 
 > The early history of bioelectromagnetics is reviewed as I experienced it. The period of time chosen extends from my joining the Institute for Physical Foundations of Medicine in Frankfurt in 1937 to the early 1970s, when I retired from the chair of my department at the University of Pennsylvania. Several themes emerge from these recollections. First, clinical and biological work led almost immediately to a heated controversy about the role of athermal vs. thermal effects; this issue has never been settled to the satisfaction of most. Second, good quantitative work on electrical properties and dosimetry began early, well before World War II; its impact on future developments was significant.
 
--   A short historical summary of EMF reserach by [@EMFDataEmfdataorg], states:
+-   A short historical summary of EMF research by EMF:data [-@EMFDataEmfdataorg], states:
 
 > General research overview
 > 
