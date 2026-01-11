@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -258,8 +278,16 @@ ul.task-list li input[type="checkbox"] {
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#historical-heritance" id="toc-historical-heritance" class="nav-link active" data-scroll-target="#historical-heritance"><span class="header-section-number">1.0.1</span> Historical heritance</a></li>
+  <li><a href="#dosimetry-1931-1941" id="toc-dosimetry-1931-1941" class="nav-link" data-scroll-target="#dosimetry-1931-1941"><span class="header-section-number">1.1</span> “Dosimetry”, 1931-1941</a></li>
+  <li><a href="#safetety-limit-schwan-1953" id="toc-safetety-limit-schwan-1953" class="nav-link" data-scroll-target="#safetety-limit-schwan-1953"><span class="header-section-number">1.2</span> Safetety limit, Schwan, 1953</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -284,8 +312,30 @@ ul.task-list li input[type="checkbox"] {
 
 
 <p>Electromagnetic fields are …</p>
+<section id="historical-heritance" class="level3" data-number="1.0.1">
+<h3 data-number="1.0.1" class="anchored" data-anchor-id="historical-heritance"><span class="header-section-number">1.0.1</span> Historical heritance</h3>
+</section>
+<section id="dosimetry-1931-1941" class="level2" data-number="1.1">
+<h2 data-number="1.1" class="anchored" data-anchor-id="dosimetry-1931-1941"><span class="header-section-number">1.1</span> “Dosimetry”, 1931-1941</h2>
+<p>“Domistery” is a term with historical roots in the the treatment of disease. Guy writes the following (<span class="citation" data-cites="guyBiologicalEffectsElectromagnetic2015">(<a href="references.html#ref-guyBiologicalEffectsElectromagnetic2015" role="doc-biblioref">2015</a>)</span>) (my emphasis):</p>
+<blockquote class="blockquote">
+<p>Between 1931 and 1941, there were many basic problems in the use of radiofrequency energy for effective therapeutic heating of tissues. Most of these problems arose because investigators were not able to quantify the <strong>actual rate of energy absorption</strong> by tissues during treatment. The results of uncontrolled experiments resulted in contradictory statements in the medical literature. The various shortwave generators produced by different manufacturers had variable outputs. It was implied through advertisements that the heating of deeper tissues would be enhanced with greater output power of the generating equipment.</p>
+</blockquote>
+</section>
+<section id="safetety-limit-schwan-1953" class="level2" data-number="1.2">
+<h2 data-number="1.2" class="anchored" data-anchor-id="safetety-limit-schwan-1953"><span class="header-section-number">1.2</span> Safetety limit, Schwan, 1953</h2>
+<p>After a proposal by Schwan in 1953, ANSI adopted this recommendation in 1966 <span class="citation" data-cites="guyBiologicalEffectsElectromagnetic2015">(<a href="references.html#ref-guyBiologicalEffectsElectromagnetic2015" role="doc-biblioref">Guy 2015</a>)</span>:</p>
+<blockquote class="blockquote">
+<p>In 1953, Schwan recommended that microwave radiation of 10 mW/cm² be accepted as a tolerance dose. Five years later, however, the Soviet Union promulgated an occupational standard limiting microwave exposure to only 10 uWIsqcm. Subsequently, after a review of all the experimental data on animal exposure at that time, it was the conclusion of various American investigators that it required exposure levels in excess of 100 mWIcnr to produce any effect of biological significance. On this basis, with a safety factor of ten, a maximum safe exposure level of 10 mWIcnr was recommended by the United States of America Standards Institute (USASI) in 1966. The standard specifying only power density was defined to cover the frequency range 10 MHz-100 GHz. Later, the name of USASI was changed to the American National Standards Institute (ANSI), and the ANSI-C95 Committee responsible for the 1966 recommended guidelines continued its work […]</p>
+</blockquote>
 
 
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list" style="display: none">
+<div id="ref-guyBiologicalEffectsElectromagnetic2015" class="csl-entry" role="listitem">
+Guy, Arthur W. 2015. <span>“<span>Biological Effects of Electromagnetic Radiation</span>.”</span> <em>ETHW</em>. https://ethw.org/Biological_Effects_of_Electromagnetic_Radiation.
+</div>
+</div>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

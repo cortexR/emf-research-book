@@ -17,6 +17,8 @@ Big portions of this body of research may not be available in literature databas
 
 -   @michaelsonHistoricalDevelopmentStudy1985
 
+-   @guyHistoryBiologicalEffects2003
+
 -   @guyBiologicalEffectsElectromagnetic2015
 
 -   @michaelsonHistoricalDevelopmentStudy1985a
@@ -35,6 +37,8 @@ Big portions of this body of research may not be available in literature databas
 > 
 > The health effects of radio-frequency radiation are anything but “not researched.” When considering the studies carried out by researchers independent of industry ties, a clear picture emerges: Radio-frequency radiation from wireless communication applications can cause considerable damage in biological systems, and studies demonstrate more and more often that such effects already occur at levels far below current exposure limits.
 
+- 
+
 
 ## Short notes about general databases for scientific literature
 
@@ -51,6 +55,13 @@ Big portions of this body of research may not be available in literature databas
 > To be added to a database, a publication must apply and be selected by NLM for inclusion in MEDLINE, PMC, or Bookshelf. PubMed indexes and makes searchable the contents of these databases; MEDLINE is the primary component of PubMed.
 >
 > — [About PMC](https://www.ncbi.nlm.nih.gov/pmc/about/disclaimer/)
+
+
+- Kostoff and Lau [-@kostoffModifiedHealthEffects2017] highlights the that PubMed (MEDLINE) has **MeSH terms**, which are unique keywords:
+
+> The two premier biomedical research article databases are the Web of Science (WOS-Science Citation Index/Social Science Citation Index/Arts and Humanities Citation Index-SCI/SSCI/A&HCI) and Medline. Each has its unique strengths. WOS has the capability for citation linkages (references, citing papers, papers that share at least one reference), while Medline has a unique taxonomy/keyword structure called MeSH. Both databases were used in this chapter for query development.
+
+
 
 #### **Embase (by Elsevier)(paid-access)**
 
@@ -149,6 +160,11 @@ At semanticscholar.org, they say that Semantic Scholar is  a "free, AI-powered r
 #### **Web of Science (by Clarivate) (paid-access)**
 
 Some main features are listed below. For more information see [Web of Science website](https://clarivate.libguides.com/webofscienceplatform/coverage).
+
+Also, note that Kostoff and Lau [-@kostoffModifiedHealthEffects2017] highlights the that Web of Science has *"has the capability for citation linkages (references, citing papers, papers that share at least one reference)"*:
+
+> The two premier biomedical research article databases are the Web of Science (WOS-Science Citation Index/Social Science Citation Index/Arts and Humanities Citation Index-SCI/SSCI/A&HCI) and Medline. Each has its unique strengths. WOS has the capability for citation linkages (references, citing papers, papers that share at least one reference), while Medline has a unique taxonomy/keyword structure called MeSH. Both databases were used in this chapter for query development.
+
 
 
 ***Web of Science Core Collection:***
