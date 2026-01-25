@@ -25,7 +25,7 @@ When adressing what save levels of exposures are, many different names are used.
 
 ### ICNIRP: "Basic restrictions" and "reference levels"
 
-For instance the *International Commission on Non-Ionizing Radiation Protection* (ICNIRP) [@protectionGuidelinesLimitingExposure2020] has set *exposure  guidelines* for radio-frequency (RF) radiation (100 kHz to 300 GHz), using the terms *"basic restrictions"* and *"reference levels"*. Basic restrictions are measured in W/kg and are related to 
+For instance the *International Commission on Non-Ionizing Radiation Protection* (ICNIRP) [@internationalcommissiononnon-ionizingradiationprotectionGuidelinesLimitingExposure2020] has set *exposure  guidelines* for radio-frequency (RF) radiation (100 kHz to 300 GHz), using the terms *"basic restrictions"* and *"reference levels"*. Basic restrictions are measured in W/kg and are related to 
 *absorbed* radiation. Because absorbed radiation is not easily measured, reference
 levels that are measured in W/m2 (or V/m and A/m for the electric and magnetic field components), is used instead  for practical purposes. Reference levels reflects the intensity of the
 radiation over a surface area, you can say outside the body if you will.
@@ -63,7 +63,7 @@ ties and Units” section
 
 The reason for the many different ways to quantisize the radition, is for instance 
 that for higher frequencies that are not aborbed 
-deeply into tissue, ICNIRP [@protectionGuidelinesLimitingExposure2020] (p.486) take the position that the *absorption* over
+deeply into tissue, ICNIRP [@internationalcommissiononnon-ionizingradiationprotectionGuidelinesLimitingExposure2020] (p.486) take the position that the *absorption* over
 surface area is more relevant: 
 
 > From a health risk perspective, we are generally inter-
@@ -85,6 +85,6 @@ sure in terms of the density of absorbed power over area
 Anyhow, the general and most relevant values from the ICNIRP guidelines are that
 the *basic restrictions* are set at 0.08 W/kg for the general population
 and 0.4 W/kg in occupational settings, for whole body exposure, as specified in 
-table 2 in the ICNIRP guidelines [@protectionGuidelinesLimitingExposure2020]. These *basic restrictions*
+table 2 in the ICNIRP guidelines [@internationalcommissiononnon-ionizingradiationprotectionGuidelinesLimitingExposure2020]. These *basic restrictions*
 can be transformed to *reference values*, depending on the frequencies of the 
 radiation, using various formulas, such as from table 3 in the ICNIRP guidelines. 
