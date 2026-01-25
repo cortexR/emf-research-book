@@ -9,3 +9,14 @@
 2024:
 
 -   Stockholm, Sweden, 2024 [@hardellSpotsExtremelyHigh2024]\
+
+1998-2023:
+
+A 2024 review [@ramirez-vazquezSystematicReviewExposure2024] looked at a *"total of 86 papers published between 1 January 1998 and 31 December 2023 are included: 61 studies with spot measurements and 25 studies with mixed methodologies (spot measurements, personal measurements with volunteers or with a trained researcher and prediction models) are highlighted."* They found the following:
+
+> The minimum mean value was measured in Palestine at 0.0600 µW/m2, and the maximum mean value was measured in Norway at 200,000 µW/m2.
+
+As a reference, although disputed for providing safety, we can keep in mind the
+Schwan limit from 1953 written about elsewhere in this book, at
+100.000.000 µW/m², or 100 W/m² [@guyBiologicalEffectsElectromagnetic2015].
+The high level measured in Norway, at 200,000 µW/m2 or 0.2 W/m², is not reaching the Schwan limit, but is 1/500th of that limit. 

@@ -12,11 +12,79 @@ Guy writes the following [-@guyBiologicalEffectsElectromagnetic2015] (my emphasi
 
 > Between 1931 and 1941, there were many basic problems in the use of radiofrequency energy for effective therapeutic heating of tissues. Most of these problems arose because investigators were not able to quantify the **actual rate of energy absorption** by tissues during treatment. The results of uncontrolled experiments resulted in contradictory statements in the medical literature. The various shortwave generators produced by different manufacturers had variable outputs. It was implied through advertisements that the heating of deeper tissues would be enhanced with greater output power of the generating equipment. 
 
-### Safetety limit, Schwan, 1953
+### Safetety limits, Schwan, 1953
 
 After a proposal by Schwan in 1953, ANSI adopted a recommendation in 1966, on a limit of
-10 mW/cm² [@guyBiologicalEffectsElectromagnetic2015] (which is the same as 100,000 mW/m² or
-100,000,000 µW/m², or 100 W/m²):
+10 mW/cm² [@guyBiologicalEffectsElectromagnetic2015] (which is the same as 100.000 mW/m², 100.000.000 µW/m², or 100 W/m²):
 
 > In 1953, Schwan recommended that microwave radiation of 10 mW/cm² be accepted as a tolerance dose. Five years later, however, the Soviet Union promulgated an occupational standard limiting microwave exposure to only 10 uWIsqcm. Subsequently, after a review of all the experimental data on animal exposure at that time, it was the conclusion of various American investigators that it required exposure levels in excess of 100 mWIcnr to produce any effect of biological significance. On this basis, with a safety factor of ten, a maximum safe exposure level of 10 mWIcnr was recommended by the United States of America Standards Institute (USASI) in 1966. The standard specifying only power density was defined to cover the frequency range 10 MHz-100 GHz. Later, the name of USASI was changed to the American National Standards Institute (ANSI), and the ANSI-C95 Committee responsible for the 1966 recommended guidelines continued its work [...]
 
+## Exposure values, limits, levels, thresholds, ...
+
+When adressing what save levels of exposures are, many different names are used.
+
+### ICNIRP: "Basic restrictions" and "reference levels"
+
+For instance the *International Commission on Non-Ionizing Radiation Protection* (ICNIRP) [@protectionGuidelinesLimitingExposure2020] has set *exposure  guidelines* for radio-frequency (RF) radiation (100 kHz to 300 GHz), using the terms *"basic restrictions"* and *"reference levels"*. Basic restrictions are measured in W/kg and are related to 
+*absorbed* radiation. Because absorbed radiation is not easily measured, reference
+levels that are measured in W/m2 (or V/m and A/m for the electric and magnetic field components), is used instead  for practical purposes. Reference levels reflects the intensity of the
+radiation over a surface area, you can say outside the body if you will.
+
+ICNIRPs reference levels are made to reflect the basic restrictions. That is,
+if a human being is exposed to radiation at a *reference level* (measured in W/m2), the heating effect of the body would be the corresponding values of the *basic restrictions* (measured in 
+W/m2). 
+
+So ICNIRPs division of limits into such *basic restrictions* and *reference values* 
+follows from practical considerations, but at the root if follows from ICNIRPs 
+dosimetric tradition, that is based on the premise that the *absorbed amount of radiation*
+is the relevant parameter as this creates heat
+effects  of radiation that is absorbed by the human body (see description of dosimetry elsewhere). 
+
+However, it should be noted that the ICNIRP guidelines are even more complicated
+than this. In total they use *five* different values for *basic restrictions* in their guidelines (SAR, Sab, SA, Uab, and Eind) and eight different values  for levels:
+
+> SAR, Sab,
+SA, Uab, and Eind are the quantities used in these guidelines
+to specify the basic restrictions. As the quantities used to specify basic restrictions can
+be difficult to measure, quantities that are more easily eval-
+uated are also specified, as reference levels. The reference
+level quantities relevant to these guidelines are incident
+electric field strength (E inc ) and incident magnetic field
+strength (H inc ), incident power density (S inc ), plane-
+wave equivalent incident power density (S eq ), incident
+energy density (U inc ), and plane-wave equivalent inci-
+dent energy density (U eq ), all measured outside the
+body, and electric current inside the body, I, described
+in units of ampere (A). Basic restriction and reference
+level units are shown in Table 1, and definitions of all
+relevant terms provided in Appendix A, in the “Quanti-
+ties and Units” section
+
+
+The reason for the many different ways to quantisize the radition, is for instance 
+that for higher frequencies that are not aborbed 
+deeply into tissue, ICNIRP [@protectionGuidelinesLimitingExposure2020] (p.486) take the position that the *absorption* over
+surface area is more relevant: 
+
+> From a health risk perspective, we are generally inter-
+ested in how much EMF power is absorbed by biological
+tissues, as this is largely responsible for the heating effects
+described above. This is typically described as a function
+of a relevant dosimetric quantity. For example, below about
+6 GHz, where EMFs penetrate deep into tissue (and thus
+require depth to be considered), it is useful to describe this
+in terms of “specific energy absorption rate” (SAR), which
+is the power absorbed per unit mass (W kg−1
+). Conversely, above 6 GHz, where EMFs are absorbed more superficially
+(making depth less relevant), it is useful to describe expo-
+sure in terms of the density of absorbed power over area
+(W m−2
+), which we refer to as “absorbed power density”
+(Sab). 
+ 
+Anyhow, the general and most relevant values from the ICNIRP guidelines are that
+the *basic restrictions* are set at 0.08 W/kg for the general population
+and 0.4 W/kg in occupational settings, for whole body exposure, as specified in 
+table 2 in the ICNIRP guidelines [@protectionGuidelinesLimitingExposure2020]. These *basic restrictions*
+can be transformed to *reference values*, depending on the frequencies of the 
+radiation, using various formulas, such as from table 3 in the ICNIRP guidelines. 
